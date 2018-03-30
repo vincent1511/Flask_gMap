@@ -1,0 +1,2961 @@
+<!DOCTYPE HTML>
+<html lang="zh-TW">
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="zh-TW">
+<meta name="author" content="數字科技股份有限公司" />
+<meta name="copyright" content="591.com.tw" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<title>【台北市店面出租】-591房屋交易網</title>
+<meta name="keywords" content="台北市店面出租,店面出租,591,出租,591出租" />
+<meta name="description" content="591店面出租頻道,為您提供台北市最豐富的店面資訊,還有辦公,住辦,車位,廠房,土地出租資訊,讓您快速找到滿意的物件。找店面就上591！" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow,archive" />
+<meta name="google-site-verification" content="hEZ-1CusNSS7yOwwpax-fT1lpRNSdL8muaPV-Ek1eIc" />
+<!-- Open Graph data -->
+<meta property="og:title" content="【台北市店面出租】-591房屋交易網" />
+<meta property="og:type" content="company" />
+<meta property="og:url" content="https://business.591.com.tw/?type=1" />
+<meta property="og:image" content="">
+<meta property="og:image:width" content="730">
+<meta property="og:image:height" content="460">
+<meta property="og:description" content="591店面出租頻道,為您提供台北市最豐富的店面資訊,還有辦公,住辦,車位,廠房,土地出租資訊,讓您快速找到滿意的物件。找店面就上591！" />
+<meta property="fb:app_id" content="1720154344667186" />
+<meta property="og:site_name" content="591房屋交易" />
+    
+    <link rel="shortcut icon" type="image/x-icon" href="//s.591.com.tw/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//s.591.com.tw/lib/bt/css/bootstrap.min.css?v=20170822">
+<link type="text/css" rel="stylesheet" href="//s.591.com.tw/lib/awesome/css/font-awesome.min.css?v=20170822">
+<script type="text/javascript" src="//s.591.com.tw/lib/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//s.591.com.tw/lib/sea.js?2018-03-05"></script>
+<script type="text/javascript"> 
+    seajs.config({
+        preload:["//s.591.com.tw/" + seajs_env_path + "widget/config.js?v=9a52c48fb9"],
+        base: "//s.591.com.tw/" + seajs_env_path
+    });
+	seajs.use("btjs");
+</script>
+<!--[if lt IE 9]>
+  	<script src="//s.591.com.tw/lib/html5shiv.min.js"></script>
+<![endif]-->
+    <link type="text/css" rel="stylesheet" href="//s.591.com.tw/static/public/sass/default.public.css?v=1e195c8fdc">
+
+        <link type="text/css" rel="stylesheet" href="//s.591.com.tw/static/public/sass/business.public.css?v=e5504fddb3">
+    <link rel="stylesheet" href="//s.591.com.tw/static/house/list/sass/list.css?v=a713762da7">
+    <link rel="stylesheet" href="//s.591.com.tw/static/business/sass/businessList.css?v=1402cac897">
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 1400px)" href="//s.591.com.tw/static/house/list/sass/listSmall.css?v=bc15661c2f">
+    <style>
+        @media (max-width: 1400px){
+            .choicenessBox .choiceness .articleList ul {
+                height: 238px !important;
+            }
+            .choicenessBox .choiceness .articleList {
+                 height: 278px !important;
+            }
+        }
+    </style>
+
+    
+    <script>
+	/**
+	 * update 2017/06/16 by <dzq@addcn.com> filter iframe stat
+	 *
+	 * @params  GTM_IS_IFRAME{Number} global variable be use to filter iframe stat, 0-stat, 1-not stat.
+	 */
+	try {
+		window.GTM_IS_IFRAME = top.location.href === window.location.href ? 0 : 1
+	} catch (e) {
+		window.GTM_IS_IFRAME = 0
+	}
+
+	// export userId
+	var GTM_USER_ID = '0'
+
+	;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K5L9PD');
+</script>
+
+
+
+<script src="//s.591.com.tw/widget/plugin/tw591.js?v=4cc0c03f1e"></script>
+
+
+<script async src="https://js.fundebug.cn/fundebug.0.3.5.min.js" apikey="5710bf7a9ee80fd98f5a7f8329d15dac50fc322665162de5689117753d17b78a"></script>
+
+<!-- addcn-591-jkb -->    
+    
+    
+</head>
+<body>
+
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5L9PD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+            
+        <nav class="nav-wrapper">
+    <div class="nav">
+        <div class="logo"><a href="//www.591.com.tw" google-data-stat="頭部導航_logo_1"><img src="//s.591.com.tw/static/public/images/header/logo.png" width="131" height="32"></a></div>
+        <div class="area" id="areaSelect"><a href="javascript:;" google-data-stat="頭部導航_縣市切換_1"><span class="areaTxt">台北市</span> <i class="fa fa-caret-down"></i></a></div>
+
+        
+        <div class="nav-list">
+            <ul class="clearfix">
+                <li class="">
+                    <a class="gtm-flag" href="//newhouse.591.com.tw" google-data-stat="頭部導航_新建案_新建案">新建案</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-newBuild">
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>銷售中新建案</dt>
+                                    <dd>
+                                        <a href="//newhouse.591.com.tw/housing-list.html" google-data-stat="頭部導航_新建案_所有新建案">所有新建案</a>
+                                        <a href="//newhouse.591.com.tw/housing-list.html?build_type=1" google-data-stat="頭部導航_新建案_預售屋">預售屋</a>
+                                        <a href="//newhouse.591.com.tw/housing-list.html?now=1" google-data-stat="頭部導航_新建案_最新公開銷售">最新公開銷售</a>
+                                        <a href="//newhouse.591.com.tw/housing-list.html?build_type=2" google-data-stat="頭部導航_新建案_新成屋">新成屋</a>
+                                        <a href="//newhouse.591.com.tw/housing-list.html?type=1" google-data-stat="頭部導航_新建案_捷運宅">捷運宅</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-narrow">
+                                <dl>
+                                    <dt>買房工具</dt>
+                                    <dd>
+                                        <a href="https://news.591.com.tw" style="color: #f60;clear:both" google-data-stat="頭部導航_新建案_新聞資訊">新聞</a>
+                                        <a href="//newhouse.591.com.tw/home/housing/vr" class="newFeatures" google-data-stat="頭部導航_新建案_環景720專區">環景720專區</a>
+                                        <a href="//price.591.com.tw" google-data-stat="頭部導航_新建案_實價登錄查詢">實價登錄查詢</a>
+                                        <a href="//www.591.com.tw/housing-bankapr.html" google-data-stat="頭部導航_新建案_房貸利率一覽表">房貸利率一覽表</a>
+                                        <a href="//www.591.com.tw/housing-fdss.html" google-data-stat="頭部導航_新建案_房貸試算器">房貸試算器</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-last">
+                                <dl>
+                                    <dt>建築/代銷公司</dt>
+                                    <dd>
+                                        <p>與其他網路平臺相比，591擁有更多精準的買屋人群，現在加入即可免費獲取看屋人潮喔！</p>
+
+                                        <a href="//www.591.com.tw/index.php?module=housing&action=housing" class="nav-btn" google-data-stat="頭部導航_新建案_立即免費刊登新建案">立即免費刊登新建案</a>
+                                        <a href="//www.591.com.tw/advertisement" google-data-stat="頭部導航_新建案_嘗試廣告網絡合作" class="nav-btn nav-btn-1 ml15" target="_blank">十大建案熱銷秘笈</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                        </section>
+                    </div>
+                </li>
+
+
+                <li class="">
+                    <a href="//sale.591.com.tw" class="gtm-flag" google-data-stat="頭部導航_中古屋_中古屋">中古屋</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-sale">
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>待售中古屋</dt>
+                                    <dd>
+                                        <a href="//sale.591.com.tw" google-data-stat="頭部導航_中古屋_所有房源">所有房源</a>
+                                        <a href="//sale.591.com.tw/saleCommunity.html" google-data-stat="頭部導航_中古屋_社區找房">社區找房</a>
+                                        <a href="//sale.591.com.tw/?shType=host" google-data-stat="頭部導航_中古屋_屋主房源">屋主房源</a>
+                                        <a href="//sale.591.com.tw/map-index.html" google-data-stat="頭部導航_中古屋_地圖找房">地圖找房</a>
+                                        <a href="//sale.591.com.tw/?shType=hurrySale" google-data-stat="頭部導航_中古屋_急售房源">急售房源</a>
+                                        <a href="//sale.591.com.tw/?label=1" google-data-stat="頭部導航_中古屋_降價房源">降價房源</a>
+                                        <a href="//sale.591.com.tw/?kind=22" google-data-stat="頭部導航_中古屋_法拍屋">法拍屋</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-narrow">
+                                <dl>
+                                    <dt>買房工具</dt>
+                                    <dd>
+                                        <a href="//price.591.com.tw" google-data-stat="頭部導航_中古屋_實價登錄查詢">實價登錄查詢</a>
+                                        <a href="//www.591.com.tw/housing-bankapr.html" google-data-stat="頭部導航_中古屋_房貸利率一覽表">房貸利率一覽表</a>
+                                        <a href="//www.591.com.tw/housing-fdss.html" google-data-stat="頭部導航_中古屋_房貸試算器">房貸試算器</a>
+                                        <a href="//sale.591.com.tw/saleBroker.html" google-data-stat="頭部導航_中古屋_找經紀人">找經紀人</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-last">
+                                <dl>
+                                    <dt>經紀人</dt>
+                                    <dd>
+                                        <p><span class="fc-red">推薦！</span>仲介用戶購買售屋套餐，單筆最低至240元！</p>
+
+                                        <a href="//www.591.com.tw/index.php?module=house&action=postFirst&type=sale" class="nav-btn" google-data-stat="頭部導航_中古屋_立即刊登出售廣告">立即刊登出售廣告</a>
+                                        <a href="//www.591.com.tw/activity-thirdEvent.html" class="nav-btn ml15" google-data-stat="頭部導航_中古屋_瞭解售屋套餐方案">瞭解售屋套餐方案</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                        </section>
+                    </div>
+
+                </li>
+
+
+                <li class="">
+                    <a href="//rent.591.com.tw" class="gtm-flag" google-data-stat="頭部導航_租屋_租屋">租屋</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-rent">
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>待租房源</dt>
+                                    <dd>
+                                        <a href="//rent.591.com.tw" google-data-stat="頭部導航_租屋_所有房源">所有房源</a>
+                                        <a href="//rent.591.com.tw/?shType=host" google-data-stat="頭部導航_租屋_房東出租">房東出租</a>
+                                        <a href="//rent.591.com.tw/?kind=1" google-data-stat="頭部導航_租屋_整層住家">整層住家</a>
+                                        <a href="//rent.591.com.tw/rentCommunity.html" google-data-stat="頭部導航_租屋_社區找房">社區找房</a>
+                                        <a href="//rent.591.com.tw/?kind=2" google-data-stat="頭部導航_租屋_獨立套房">獨立套房</a>
+                                        <a href="//rent.591.com.tw/map-index.html" google-data-stat="頭部導航_租屋_地圖找房">地圖找房</a>
+                                        <a href="//rent.591.com.tw/?kind=3" google-data-stat="頭部導航_租屋_分租套房">分租套房</a>
+                                        <a href="//rent.591.com.tw/?mrt=1" google-data-stat="頭部導航_租屋_捷運找房">捷運找房</a>
+                                        <a href="//rent.591.com.tw/?kind=4" google-data-stat="頭部導航_租屋_雅房">雅房</a>
+                                        <a href="//rent.591.com.tw/?school=0" google-data-stat="頭部導航_租屋_學校找房">學校找房</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-narrow">
+                                <dl>
+                                    <dt>租屋工具</dt>
+                                    <dd>
+                                        <a href="https://help.591.com.tw/category/50/房客手冊.html" google-data-stat="頭部導航_租屋_租屋手冊">租屋手冊</a>
+                                        <a href="https://help.591.com.tw/content/51/100/tw/%E7%A7%9F%E5%B1%8B%E5%A5%91%E7%B4%84.html" google-data-stat="頭部導航_租屋_契約下載">契約下載</a>
+                                        <a href="//rent.591.com.tw/rentBroker.html" google-data-stat="頭部導航_租屋_找經紀人">找經紀人</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-last">
+                                <dl>
+                                    <dt>房東/代理人</dt>
+                                    <dd>
+                                        <p>使用過591房東們的共同見證，最快3天就成交！不要錯過你儘早收租好機會喔！</p>
+
+                                        <a href="//www.591.com.tw/index.php?module=house&action=postFirst&type=rent" class="nav-btn" google-data-stat="頭部導航_租屋_立即刊登出租廣告">立即刊登出租廣告</a> <a href="//www.591.com.tw/help-chargesRent.html" class="nav-btn ml15" google-data-stat="頭部導航_租屋_查看收費說明">查看收費說明</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                        </section>
+                    </div>
+                </li>
+
+                <li class="current">
+                    <a href="//business.591.com.tw?type=1&kind=5" class="gtm-flag" google-data-stat="頭部導航_店面">店面</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-business">
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>出租</dt>
+                                    <dd>
+                                        <a href="//business.591.com.tw?type=1&kind=5" google-data-stat="頭部導航_店面出租">店面出租</a>
+                                        <a href="//business.591.com.tw?type=6&kind=5" google-data-stat="頭部導航_店面頂讓">店面頂讓</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>出售</dt>
+                                    <dd>
+                                        <a href="//business.591.com.tw?type=2&kind=5" google-data-stat="頭部導航_店面出售">店面出售</a>
+                                    </dd>
+                                </dl>
+                            </div>
+
+                        </section>
+                    </div>
+                </li>
+
+                <li class="">
+                    <a href="//business.591.com.tw?type=1&kind=6" class="gtm-flag" google-data-stat="頭部導航_辦公">辦公</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-business">
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>出租</dt>
+                                    <dd>
+                                        <a href="//business.591.com.tw?type=1&kind=6" google-data-stat="頭部導航_辦公出租">辦公</a>
+                                        <a href="//business.591.com.tw?type=1&kind=12" google-data-stat="頭部導航_住辦出租">住辦</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>出售</dt>
+                                    <dd>
+                                        <a href="//business.591.com.tw?type=2&kind=6" google-data-stat="頭部導航_辦公出售">辦公</a>
+                                        <a href="//business.591.com.tw?type=2&kind=12" google-data-stat="頭部導航_住辦出售">住辦</a>
+                                    </dd>
+                                </dl>
+                            </div>
+
+                        </section>
+                    </div>
+                </li>
+
+                <li class="">
+                    <a href="//business.591.com.tw?type=1&kind=7" class="gtm-flag" google-data-stat="頭部導航_廠房土地">廠房土地</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-business">
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>出租</dt>
+                                    <dd>
+                                        <a href="//business.591.com.tw?type=1&kind=7" google-data-stat="頭部導航_廠房出租">廠房</a>
+                                        <a href="//business.591.com.tw?type=1&kind=11" google-data-stat="頭部導航_土地出租">土地</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="sub-nav-list nav-wide">
+                                <dl>
+                                    <dt>出售</dt>
+                                    <dd>
+                                        <a href="//business.591.com.tw?type=2&kind=7" google-data-stat="頭部導航_廠房出售">廠房</a>
+                                        <a href="//business.591.com.tw?type=2&kind=11" google-data-stat="頭部導航_土地出售">土地</a>
+                                    </dd>
+                                </dl>
+                            </div>
+
+                        </section>
+                    </div>
+                </li>
+
+                <li><a href="//www.591.com.tw/newCommunity-list.html" class="gtm-flag" google-data-stat="頭部導航_社區_社區">社區</a></li>
+                <li class="hasicon ">
+                    <a href="https://news.591.com.tw" style="" google-data-stat="頭部導航_新建案_新聞資訊">新聞</a>
+                </li>
+
+                <li>
+                    <a href="javascript:;" class="gtm-flag" >更多</a>
+
+                    
+                    <div class="sub-nav">
+                        <section class="nav-category subnav-more">
+                            <div class="sub-nav-list nav-narrow">
+                                <dl>
+                                    <dt>房屋周邊服務</dt>
+                                    <dd>
+                                        <a href="//home.591.com.tw" google-data-stat="頭部導航_更多_二手家具">二手家具</a>
+                                        <a href="//bbs.591.com.tw" google-data-stat="頭部導航_更多_討論區">討論區</a>
+                                        <a href="https://www.100.com.tw/works.html?bid=16&utm_source=591.com.tw&utm_medium=referral&utm_campaign=591nav_bar" class="gtm-flag" target="_blank" google-data-stat="頭部導航_裝潢_裝潢">室內設計</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                        </section>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        
+        <div class="login-status">
+            <ul>
+                
+                                    <li class="nav-link">
+                        <a href="//www.591.com.tw/user-login.html" target="_blank" class="gtm-flag" google-data-stat="頭部導航_登入_登入">登入</a>
+                        <em class="divide-line"></em>
+                        <a href="//www.591.com.tw/index.php?module=user" target="_blank" class="gtm-flag" google-data-stat="頭部導航_註冊_註冊">註冊</a>
+
+                        <div class="dropbox nav-publish login-notice">
+                            <div class="dropbox-arrow"></div>
+                            <a href="javascript:;" class="login-close" google-data-stat="頭部導航_登錄提示_關閉提示"></a>
+                            <p>親愛的會員，登入功能搬到這裡啦！</p>
+                            <a href="//www.591.com.tw/user-login.html" class="login-btn active mr15" target="_blank" google-data-stat="頭部導航_登錄提示_會員登入">會員登入</a> <a href="//www.591.com.tw/index.php?module=user" class="login-btn" target="_blank" google-data-stat="頭部導航_登錄提示_免費註冊">免費註冊</a>
+                        </div>
+                    </li>
+                
+                
+                <li class="dropMenu">
+                                        <div class="dropbox undis nav-publish">
+                        <div class="dropbox-arrow"></div>
+                        <ul>
+                            <li><a href="//www.591.com.tw/index.php?module=userCenter" google-data-stat="頭部導航_登錄后下拉_會員中心">會員中心</a></li>
+                            <li><a href="//www.591.com.tw/index.php?module=user&action=logout" google-data-stat="頭部導航_登錄后下拉_退出">退出</a></li>
+                        </ul>
+                    </div>
+                </li>
+
+                
+                <li class="dropMenu nav-small-post">
+                    <a href="//www.591.com.tw/index.php?module=house&action=postFirst" google-data-stat="頭部導航_我要刊登_我要刊登">我要刊登 <i class="fa fa-caret-down"></i></a>
+                    <div class="dropbox undis nav-publish">
+                        <div class="dropbox-arrow"></div>
+                        <ul>
+                            <li>
+                                <a target="_blank" href="//www.591.com.tw/index.php?module=house&action=postFirst&type=rent" google-data-stat="頭部導航_我要刊登_我要刊登">刊登出租</a></li>
+                            <li><a target="_blank" href="//www.591.com.tw/index.php?module=house&action=postFirst&type=sale" google-data-stat="頭部導航_我要刊登_我要刊登">刊登出售</a></li>
+                            <li><a target="_blank" href="//www.591.com.tw/index.php?module=housing&action=housing" google-data-stat="頭部導航_我要刊登_我要刊登">刊登建案</a></li>
+                            <li><a target="_blank" href="//www.591.com.tw/advertisement" google-data-stat="頭部導航_我要刊登_圖片廣告">圖片廣告</a></li>
+                            <li><a target="_blank" href="//www.591.com.tw/help-charges.html" google-data-stat="頭部導航_我要刊登_我要刊登">收費標準</a></li>
+                        </ul>
+                    </div>
+                </li>
+
+                
+                <li class="dropMenu nav-small-help">
+                    <a href="https://help.591.com.tw/" target="_blank" class="gtm-flag" google-data-stat="頭部導航_幫助_幫助">幫助 <i class="fa fa-caret-down"></i></a>
+                    <div class="dropbox undis nav-help">
+                        <div class="dropbox-arrow"></div>
+                        <dl>
+                            <dt>咨詢入口</dt>
+                            <dd>
+                                                                <a href="javascript:;" onclick="openKF()" google-data-stat="頭部導航_幫助_非會員留言">非會員留言</a>
+                                <a href="javascript:;" onclick="openKF()" class="online" google-data-stat="頭部導航_幫助_會員申訴">會員申訴</a>
+                                                                <a href="//www.591.com.tw/index.php?module=userCenter&action=appealList" target="_blank" google-data-stat="頭部導航_幫助_申訴回覆">申訴回覆</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>新手指南</dt>
+                            <dd>
+                                <a href="//www.591.com.tw/index.php?module=user" target="_blank" google-data-stat="頭部導航_幫助_註冊會員">註冊會員</a>
+                                <a href="https://help.591.com.tw/content/56/139/tw/忘記密碼找回方法.html" target="_blank" google-data-stat="頭部導航_幫助_忘記帳密">忘記帳密</a>
+                                <a href="https://help.591.com.tw/category/57/修改個人資料.html" target="_blank" google-data-stat="頭部導航_幫助_修改個人資料">修改個人資料</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>房東幫助</dt>
+                            <dd>
+                                <a href="https://help.591.com.tw/content/20/30/tw/%E5%A6%82%E4%BD%95%E5%88%8A%E7%99%BB%E6%88%BF%E5%B1%8B%E5%BB%A3%E5%91%8A%EF%BC%9F.html" target="_blank" google-data-stat="頭部導航_幫助_如何刊登">如何刊登</a>
+                                <a href="//www.591.com.tw/help-chargesRent.html" target="_blank" google-data-stat="頭部導航_幫助_收費標準">收費標準</a>
+                                <a href="https://help.591.com.tw/content/13/5/tw/儲值教學.html" target="_blank" google-data-stat="頭部導航_幫助_付款教學">付款教學</a>
+                                <a href="https://help.591.com.tw/category/23/上傳房屋圖檔.html" target="_blank" google-data-stat="頭部導航_幫助_上傳房屋圖片">上傳房屋圖片</a>
+                                <a href="https://help.591.com.tw/category/63/房屋廣告管理.html" target="_blank" google-data-stat="頭部導航_幫助_房屋廣告管理">房屋廣告管理</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>經紀人幫助</dt>
+                            <dd>
+                                <a href="//www.591.com.tw/activity-thirdEvent.html" target="_blank" google-data-stat="頭部導航_幫助_售屋套餐介紹">售屋套餐介紹</a>
+                                <a href="https://help.591.com.tw/category/30/經紀人認證.html" target="_blank" google-data-stat="頭部導航_幫助_仲介職業認證">仲介職業認證</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>建築/代銷公司幫助</dt>
+                            <dd>
+                                <a href="https://help.591.com.tw/content/34/76/tw/%E5%A6%82%E4%BD%95%E5%88%8A%E7%99%BB%E5%BB%BA%E6%A1%88%E5%BB%A3%E5%91%8A%EF%BC%9F.html" target="_blank" google-data-stat="頭部導航_幫助_如何刊登建案廣告">如何刊登建案廣告</a>
+                                <a class="highlight" href="//www.591.com.tw/advertisement" target="_blank" google-data-stat="頭部導航_幫助_我要推廣">我要推廣</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>客戶服務</dt>
+                            <dd>
+                                客服電話：02-55722000 <br/>
+                                客服傳真：02-55793400 <br/>
+                                客服信箱：service@591.com.tw <br/>
+                                服務時間：週一至週日 9:00-18:00 <br/>
+
+                                <a href="https://help.591.com.tw/" class="drop-btn" target="_blank" google-data-stat="頭部導航_幫助_查看更多幫助內容">查看更多幫助內容</a>
+                            </dd>
+                        </dl>
+                    </div>
+                </li>
+
+                
+                <li class="dropMenu nav-small-addcn">
+                    <a href="http://www.addcn.com/" target="_blank" class="addcn" google-data-stat="頭部導航_addcn_addcn">數字App</a>
+                    <div class="dropbox nav-addcn">
+                        <div class="dropbox-arrow"></div>
+                        <ul>
+                            <li>
+                                <a href="//www.8591.com.tw/news-app.html?aid=849" target="_blank" title="8591寶物交易" google-data-stat="頭部導航_addcn_8591寶物交易">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-8591.png" alt="8591寶物交易">
+                                    <p>8591寶物交易</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//www.591.com.tw#anchor_app" target="_blank" title="591房屋交易" google-data-stat="頭部導航_addcn_591房屋交易">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-591.png" alt="591房屋交易">
+                                    <p>591房屋交易</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//www.591.com.hk/home/app/android.html" target="_blank" title="591房屋交易" google-data-stat="頭部導航_addcn_591房屋交易">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-hk591.png" alt="591房屋交易">
+                                    <p>591房屋交易</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//uc.100.com.tw/apps-download.html" target="_blank" title="100室內設計" google-data-stat="頭部導航_addcn_100室內設計">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-100.png" alt="100室內設計">
+                                    <p>100室內設計</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//www.8891.com.tw/index-appDown.html" target="_blank" title="8891汽車交易" google-data-stat="頭部導航_addcn_8891汽車交易">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-8891.png" alt="8891汽車交易">
+                                    <p>8891汽車交易</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//c.8891.com.tw/photoIndex-appDown.html" target="_blank" title="8891新車" google-data-stat="頭部導航_addcn_8891新車">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-8891-newCar.png" alt="8891新車">
+                                    <p>8891新車</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//www.518.com.tw/active-app_android.html" target="_blank" title="518人力銀行" google-data-stat="頭部導航_addcn_518人力銀行">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-518-work.png" alt="518人力銀行">
+                                    <p>518人力銀行</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//case.518.com.tw" target="_blank" title="518外包網" google-data-stat="頭部導航_addcn_518外包網">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-518-bag3.png" alt="518外包網">
+                                    <p>518外包網</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//518.com.tw/15043" target="_blank" title="小雞上工" google-data-stat="頭部導航_addcn_小雞上工">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-chick.png" alt="小雞上工">
+                                    <p>小雞上工</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//www.101vip.com.tw" target="_blank" title="名品會" google-data-stat="頭部導航_addcn_名品會">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-vip2.png" alt="名品會">
+                                    <p>名品會</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="//www.marry.com.tw/?a_id=1375&utm_source=591&utm_medium=app_link" target="_blank" title="結婚吧" google-data-stat="頭部導航_addcn_結婚吧">
+                                    <img src="//s.591.com.tw/static/public/images/header/icon-marry2.png" alt="結婚吧">
+                                    <p>結婚吧</p>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<script>
+    seajs.use(["areaBoxNew","cookie"],function(){
+        $("#areaSelect").areabox({
+            callback:function(obj){
+                $("#areaSelect").find(".areaTxt").html(obj.text());
+
+                // 首頁後台統計
+                if (/www(\.(dev|debug))?\.591\.com\.tw\/home$/.test(location.href)) {
+                    $.post('//' + location.hostname + '/home/data/regionClick?cr=' + $.cookie('urlJumpIp') + '&r=' + obj.data('id'))
+                }
+
+                // 設置新的cookie
+                $.cookie('urlJumpIp',obj.attr("data-id"),{expires: 30,path: '/',domain:'591.com.tw'});
+                // 去掉hash
+                window.location.hash = ''
+
+                if (/www(\.(dev|debug))?\.591\.com\.tw/g.test(location.href)) {
+                    // 鏈接參數重置&頁面刷新
+                    window.location.href = window.location.origin + '?regionid=' + obj.attr("data-id")
+                } else {
+                    // 頁面刷新
+                    window.location.reload();
+                }
+            }
+        });
+
+        // 導航子菜單顯示
+        $(".nav-list li").bind({
+            "mouseover" : function(){
+                $(this).addClass("active").find(".sub-nav").show();
+            },
+            "mouseout" : function(){
+                $(this).removeClass("active").find(".sub-nav").hide();
+            }
+        })
+
+        // 狀態區域下拉
+        $(".login-status .dropMenu").bind({
+            "mouseover" : function(){
+                $(this).addClass("active").find(".dropbox").show();
+            },
+            "mouseout" : function(){
+                $(this).removeClass("active").find(".dropbox").hide();
+            }
+        })
+
+        // 獲取登錄提示展示次數
+        var _val = $.cookie("loginNoticeNumber") ? $.cookie("loginNoticeNumber") : 0;
+
+        //登錄提示框是否展示，超過三次就不再展示
+        if(!$.cookie("loginNoticeStatus") && _val <3){
+            $(".login-notice").show();
+        }
+
+        // 點擊關閉時同時寫入登錄提示次數cookie和展示cookie
+        $(".login-close").on("click",function(){
+            $(".login-notice").hide();
+
+            // 控制是否展示
+            $.cookie("loginNoticeStatus",1,{expires: 1,path: '/',domain:'591.com.tw'})
+
+            // 打入展示次數
+            $.cookie("loginNoticeNumber",parseInt(_val) + 1,{expires: 365,path: '/',domain:'591.com.tw'})
+
+        })
+    })
+</script>    
+    
+      
+
+    <div id="container">
+        
+        
+    
+    <section class="searchBox">
+    <div class="searchBoxInput form-inline">
+        <input type="text" value="" name="keywords" id="keywords" placeholder="請輸入關鍵字（社區、街道、商圈等...）" data-text="請輸入關鍵字（社區、街道、商圈等...）" autocomplete="off" class="searchInput form-control" >
+        <i style=""><ul id="localCookies"></ul></i>
+        <span class="searchBtn" aria-hidden="true" google-data-stat=" 商用出租  _列表_搜寻按钮"></span>
+        <i class="searchBtn" aria-hidden="true"></i>
+                    <ul class="hotWords clearfix">
+                <li class="first"><strong style="color: #2e3436 ">商用地產：</strong></li>
+                <li class="first" google-data-stat="新版出租_列表_引導店面"><a  href="//business.591.com.tw?type=1&kind=5&businessSort=1"  >店面</a></li>
+                                    <li class="first"  google-data-stat="新版出租_列表_引導辦公"><a  href="//business.591.com.tw?type=1&kind=6&businessSort=1"  >辦公</a></li>
+                    <li class="first" google-data-stat="新版出租_列表_引導住辦"><a href="//business.591.com.tw?type=1&kind=12&businessSort=1"  >住辦</a></li>
+                    <li class="first" google-data-stat="新版出租_列表_引導廠房"><a href="//business.591.com.tw?type=1&kind=7&businessSort=1"  >廠房</a></li>
+                    <li class="first" google-data-stat="新版出租_列表_引導土地"><a href="//business.591.com.tw?type=1&kind=11&businessSort=1"  >土地</a></li>
+                                                <li class="first"  google-data-stat="新版出租_列表_引導頂讓"><a href="//business.591.com.tw?type=6&businessSort=1" >頂讓</a></li>           
+                                
+            </ul>
+
+            <a href="
+                                    //rent.591.com.tw/map-index.html
+                                " class="mapSearch" google-data-stat=" 商用出租             _列表_地圖搜寻按钮"></a>
+
+            </div>
+</section>
+
+    
+    
+    <div id="header-dealer">
+        <div id="PAGE_AD_835" class="baidu_adv"></div>
+    </div>
+
+    <!--麵包屑-->
+    <section class="breadBox">
+        <div class="breadNav clearfix">
+            <div class="breadList" id="breadList">
+                <a href="//www.591.com.tw" google-data-stat="商用出租 _列表_591面包屑">591</a>&nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></span>&nbsp;&nbsp;
+
+                                    <a href="//business.591.com.tw?type=1&kind=5" google-data-stat="商用出租 _列表_商用面包屑">店面</a>
+                
+                &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></span>&nbsp;&nbsp;
+                
+                <a href="//business.591.com.tw/?type=1"  google-data-stat="商用出租 _列表_ 出租面包屑">出租</a>
+            </div>
+            <div class="conditionShow clearfix"></div>
+            <a href="//www.591.com.tw/index.php?module=mailPaper&action=addRentPaper" target="_blank" google-data-stat="商用出租 _列表_訂閱電子報" class="pull-right">&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;&nbsp;訂閱電子報</a>
+            <a href="javascript:;" class="pull-right" ><i class="fa fa-trash-o" aria-hidden="true"></i> 清除全部</a>
+        </div>
+    </section>
+
+    <!--條件篩選-->
+    <section class="conditionBox">
+        <section class="condition">
+
+            <!--類別-->
+            <!--位置-->
+<div class="business-type">
+    <strong>類別：</strong>
+    <span id="business-type-rent" data-text="0" class="business-type-span" google-data-stat="">出租</span>
+    <span id="business-type-sale" data-text="1" class="business-type-span" google-data-stat="">出售</span>
+    	    <span id="business-type-ding" data-text="2" class="business-type-span" google-data-stat="">頂讓</span>
+    </div>            <!--位置-->
+            <!--位置-->
+<div class="searchType">
+    <strong>位置：</strong>
+    <span data-text="0" google-data-stat="商用出租_列表_按縣市選擇">台北市&nbsp;&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></span>    
+    <span data-text="1" id="sectionSh" class="select" google-data-stat="商用出租_列表_按鄉鎮選擇">按鄉鎮選擇&nbsp;&nbsp;<i class="fa fa-angle-up" aria-hidden="true"></i></span>
+    <span data-text="4" google-data-stat="商用出租_列表_按捷運選擇">按捷運選擇&nbsp;&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></span>
+    <span data-text="3" google-data-stat="商用出租_列表_按學校選擇">按學校選擇&nbsp;&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></span>
+    <span data-text="2" google-data-stat="商用出租_列表_按商圈選擇">按商圈選擇&nbsp;&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></span>
+</div>
+<ul id="optionBox" id="areabox" class="clearfix"></ul>
+<ul id="optionBoxs"class="clearfix"></ul>
+            <!--類型-->
+            <!--位置-->
+<div class="business-kind">
+    
+    <!-- <span data-text="0" id="business-kind-unlimit" class="unlimit" google-data-stat="">不限</span>     -->
+    
+        <!-- <span data-text="55" data-type="6" class="business-kind-span" google-data-stat="">頂讓</span> -->
+    
+    
+
+</div>            <!--格局-->
+            <div class="searchSum pattern">
+    <strong>格局：</strong>
+    <span data-text="0" class="nini"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局不限">不限</a></span>
+    <span data-text="1"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局1房">1房</a></span>
+    <span data-text="2"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局2房">2房</a></span>
+    <span data-text="3"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局3房">3房</a></span>
+    <span data-text="4"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局4房">4房</a></span>
+    <span data-text="5"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局5房以上">5房以上</a></span>
+    </div>
+
+<div class="searchSum patternMore">
+    <strong>格局：</strong>
+    <span data-text="0" class="niniMore nini"  data-name="patternMore"><a href="javascript:;" google-data-stat=" 商用出租  _列表_格局不限">不限</a></span>
+    <span><label><input type="checkbox" value="1" data-text="1房" google-data-stat="商用出租  _列表_1房"> 1房</label></span>
+    <span><label><input type="checkbox" value="2" data-text="2房" google-data-stat="商用出租  _列表_2房"> 2房</label></span>
+    <span><label><input type="checkbox" value="3" data-text="3房" google-data-stat="商用出租  _列表_3房"> 3房</label></span>
+    <span><label><input type="checkbox" value="4" data-text="4房" google-data-stat="商用出租  _列表_4房"> 4房</label></span>
+    <span><label><input type="checkbox" value="5" data-text="5房以上" google-data-stat="商用出租  _列表_5房以上"> 5房以上</label></span>
+
+    &nbsp;&nbsp;<b class="MoreBtn"><a href="javascript:void(0);" class="checkLess"google-data-stat="商用出租  _列表_格局單選">單選</a></b>
+</div>            
+                    <!--出租-->
+            
+                    <!--租金-->
+            <div class="searchSum rentprice">
+    <strong>租金：</strong>
+    <span  data-text="0" class="nini"><a href="javascript:;" google-data-stat="商用出租_列表_租金不限">不限</a></span>
+    <span data-text="0_5000"><a href="javascript:;" google-data-stat="商用出租_列表_租金5000元以下">5000元以下</a></span>
+    <span data-text="5000_10000"><a href="javascript:;" google-data-stat="商用出租_列表_租金5000-10000元">5000-10000元</a></span>
+    <span data-text="10000_15000"><a href="javascript:;" google-data-stat="商用出租_列表_租金10000-15000元">10000-15000元</a></span>
+    <span data-text="15000_20000"><a href="javascript:;" google-data-stat="商用出租_列表_租金15000-20000元">15000-20000元</a></span>
+    <span data-text="20000_40000"><a href="javascript:;" google-data-stat="商用出租_列表_租金20000-40000元">20000-40000元</a></span>
+    <span data-text="40000_"><a href="javascript:;" google-data-stat="商用出租_列表_租金40000元以上">40000元以上</a></span>
+    <sapn class="inputSpan"><input type="text" class="rentpricemin  sh-info" id="rentpriceTxtS">&nbsp;-&nbsp;<input type="text" class="rentpricemax  sh-info" id="rentpriceTxtE">&nbsp;元&nbsp;&nbsp;<input class="sh-btn" type="button" value="確定" google-data-stat="商用出租_列表_自定义金额"></sapn>
+</div>
+                    <!--出售-->
+                                <!--售金-->
+            <div class="searchSum price">
+    <strong>頂讓金：</strong>
+    <span data-text="0" class="nini"><a href="javascript:;" google-data-stat="商用顶让_列表_頂讓金不限">不限</a></span>
+    <span data-text="0_10"><a href="javascript:;" google-data-stat="商用顶让_列表_頂讓金10萬元以下">10萬元以下</a></span>
+    <span data-text="10_30"><a href="javascript:;" google-data-stat="商用顶让_列表_頂讓金10-30萬元">10-30萬元</a></span>
+    <span data-text="30_50"><a href="javascript:;" google-data-stat="商用顶让_列表_頂讓金30-50萬元">30-50萬元</a></span>
+    <span data-text="50_100"><a href="javascript:;" google-data-stat="商用顶让_列表_頂讓金50-100萬元">50-100萬元</a></span>
+    <span data-text="100_"><a href="javascript:;" google-data-stat="商用顶让_列表_頂讓金100萬元以上">100萬元以上</a></span>
+</div>
+<div class="searchSum kind">
+    <strong>行業：</strong>
+    <span data-text="" class="nini"><a href="javascript:;" google-data-stat="商用顶让_列表_行業不限">不限</a></span>
+    <span data-text="13"><a href="javascript:;" google-data-stat="商用顶让_列表_行業餐飲食品">餐飲食品</a></span>
+    <span data-text="14"><a href="javascript:;" google-data-stat="商用顶让_列表_行業服飾精品">服飾精品</a></span>
+    <span data-text="20"><a href="javascript:;" google-data-stat="商用顶让_列表_行業生活休閒">生活休閒</a></span>
+    <span data-text="15"><a href="javascript:;" google-data-stat="商用顶让_列表_行業文化教育">文化教育</a></span>
+    <span data-text="17"><a href="javascript:;" google-data-stat="商用顶让_列表_行業交通運輸">交通運輸</a></span>
+    <span data-text="19"><a href="javascript:;" google-data-stat="商用顶让_列表_行業其他">其他</a></span>
+</div>
+<div class="searchSum storeprice">
+    <strong>租金：</strong>
+    <span  data-text="0" class="nini"><a href="javascript:;" google-data-stat="商用顶让_列表_租金不限">不限</a></span>
+    <span data-text="5000_10000"><a href="javascript:;" google-data-stat="商用顶让_列表_租金5000-10000元">5000-10000元</a></span>
+    <span data-text="10000_20000"><a href="javascript:;" google-data-stat="商用顶让_列表_租金10000-20000元">10000-20000元</a></span>
+    <span data-text="20000_30000"><a href="javascript:;" google-data-stat="商用顶让_列表_租金20000-30000元">20000-30000元</a></span>
+    <span data-text="30000_40000"><a href="javascript:;" google-data-stat="商用顶让_列表_租金30000-40000元">30000-40000元</a></span>
+    <span data-text="40000_60000"><a href="javascript:;" google-data-stat="商用顶让_列表_租金40000-60000元以上">40000-60000元</a></span>
+    <span data-text="60000_"><a href="javascript:;" google-data-stat="商用顶让_列表_租金60000元以上">60000元以上</a></span>
+</div>                    <!--坪数-->
+            <!--坪数-->
+<div class="searchSum last area">
+    <strong>坪數：</strong>
+    <span data-text="0" class="nini"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數不限">不限</a></span>
+    <span data-text="0_10"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數10坪以下">10坪以下</a></span>
+    <span data-text="10_20"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數10-20坪">10-20坪</a></span>
+    <span data-text="20_30"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數20-30坪">20-30坪</a></span>
+    <span data-text="30_40"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數30-40坪">30-40坪</a></span>
+    <span data-text="40_50"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數40-50坪">40-50坪</a></span>
+    <span data-text="50_"><a href="javascript:;" google-data-stat="商用出租  _列表_坪數50坪以上">50坪以上</a></span>
+    <sapn class="inputSpan"><input type="text" class="areamin sh-info" id="areaTxtS">&nbsp;-&nbsp;<input type="text" class="areamax sh-info" id="areaTxtE">&nbsp;坪&nbsp;&nbsp;<input class="sh-btn" type="button" value="確定" google-data-stat=" 商用出租  _列表_坪數自定义"></sapn>
+</div>
+                    <!--更多-->
+
+            <div class="searchMore">
+                <strong>更多條件：</strong>
+
+                        <!--房屋類型-->
+                <div class="btn-group shape">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        房屋型態 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu shapeList">
+        <li data-text="1"><a href="javascript:;" google-data-stat=" 商用出租  _列表_房屋类型公寓"><label for="shapeOne"><input type="checkbox" value="1" id="shapeOne"> <em>公寓</em></label></a></li>
+        <li data-text="2"><a href="javascript:;" google-data-stat=" 商用出租  _列表_房屋类型电梯大楼"><label for="shapeTwo"><input type="checkbox" value="2" id="shapeTwo"> <em>電梯大樓</em></label></a></li>
+        <li data-text="3"><a href="javascript:;" google-data-stat=" 商用出租  _列表_房屋类型透天厝"><label for="shapeThree"><input type="checkbox" value="3" id="shapeThree"> <em>透天厝</em></label></a></li>
+        <li data-text="4"><a href="javascript:;" google-data-stat=" 商用出租  _列表_房屋类型別墅"><label for="shapeFour"><input type="checkbox" value="4" id="shapeFour"> <em>別墅</em></label></a></li>
+    </ul>
+</div>
+                        <!--樓層-->
+                <div class="btn-group floor">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        樓層 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu floorList">
+        <li data-text="0"><a href="javascript:;" google-data-stat=" 商用出租  _列表_樓層不限">不限</a></li>
+        <li data-text="1"><a href="javascript:;" google-data-stat=" 商用出租  _列表_樓層1楼">1層</a></li>
+        <li data-text="2-6"><a href="javascript:;" google-data-stat=" 商用出租  _列表_樓層6層以下">2-6層</a></li>
+        <li data-text="6-12"><a href="javascript:;" google-data-stat=" 商用出租  _列表_樓層6-12層">6-12層</a></li>
+        <li data-text="12"><a href="javascript:;" google-data-stat=" 商用出租  _列表_樓層12層以上">12層以上</a></li>
+    </ul>
+</div>
+
+                        <!--屋龄-->
+                <div class="btn-group houseage">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        屋齡 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu houseageList">
+        <li data-text="0"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄不限">不限</a></li>
+        <li data-text="0,5"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄5年以下">5年以下</a></li>
+        <li data-text="5,10"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄5-10年">5-10年</a></li>
+        <li data-text="10,20"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄10-20年">10-20年</a></li>
+        <li data-text="20,30"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄20-30年">20-30年</a></li>
+        <li data-text="30,40"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄30-40年">30-40年</a></li>
+        <li data-text="40,100"><a href="javascript:;" google-data-stat=" 商用出租  _列表_屋龄40年以上">40年以上</a></li>
+    </ul>
+</div>                        <!--单价-->
+                <div class="btn-group unitprice">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        單價 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu unitpriceList">
+        <li data-text="0"><a href="javascript:;" google-data-stat=" 商用出租  _列表_单价不限">不限</a></li>
+        <li data-text="1"><a href="javascript:;" google-data-stat=" 商用出租  _列表_单价20萬以下">20萬以下</a></li>
+        <li data-text="2"><a href="javascript:;" google-data-stat=" 商用出租  _列表_单价20-30萬">20-30萬</a></li>
+        <li data-text="3"><a href="javascript:;" google-data-stat=" 商用出租  _列表_单价30-50萬">30-50萬</a></li>
+        <li data-text="4"><a href="javascript:;" google-data-stat=" 商用出租  _列表_单价50-70萬">50-70萬</a></li>
+        <li data-text="5"><a href="javascript:;" google-data-stat=" 商用出租  _列表_单价70萬以上">70萬以上</a></li>
+    </ul>
+</div>                        <!--生活機能-->
+                <div class="btn-group life">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        生活機能 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu lifeList">
+        <li><a google-data-stat=" 商用出租  _列表_生活機能便利店"><label for="lifeOne"><input type="checkbox" value="advstore" id="lifeOne"> <em>便利店</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_生活機能傳統市場"><label for="lifeTwo"><input type="checkbox" value="market" id="lifeTwo"> <em>傳統市場</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_生活機能近醫療機構"><label for="lifeThree"><input type="checkbox" value="hospital" id="lifeThree"> <em>近醫療機構</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_生活機能近學校"><label for="lifeFour"><input type="checkbox" value="school" id="lifeFour"> <em>近學校</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_生活機能近公園"><label for="lifeFive"><input type="checkbox" value="park" id="lifeFive"> <em>近公園</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_生活機能近夜市"><label for="lifeSix"><input type="checkbox" value="night" id="lifeSix"> <em>近夜市</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_生活機能百貨公司"><label for="lifeSeven"><input type="checkbox" value="depart" id="lifeSeven"> <em>百貨公司</em></label></a></li>
+    </ul>
+</div>
+                        <!--經辦人-->
+                <div class="btn-group role">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        經辦人 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu roleList">
+        <li data-text="1"><a href="javascript:;" google-data-stat=" 商用出租  _列表_经办人屋主刊登">屋主刊登</a></li>
+        <li data-text="2"><a href="javascript:;" google-data-stat=" 商用出租  _列表_经办人代理人刊登">代理人刊登</a></li>
+        <li data-text="3"><a href="javascript:;"google-data-stat=" 商用出租  _列表_经办人仲介刊登">仲介刊登</a></li>
+    </ul>
+</div>                        <!--土地類別-->
+                <div class="btn-group land">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        土地類別 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu landList">
+        <li data-text="1"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別住宅用地">住宅用地</a></li>
+        <li data-text="2"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別商業用地">商業用地</a></li>
+        <li data-text="3"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別工業用地">工業用地</a></li>
+        <li data-text="4"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別建地">建地</a></li>
+        <li data-text="5"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別農地">農地</a></li>
+        <li data-text="6"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別林地">林地</a></li>
+        <li data-text="7"><a href="javascript:;" google-data-stat=" 商用出租  _列表_土地類別其他">其他</a></li>
+    </ul>
+</div>
+                        <!--提供设备-->
+                <div class="btn-group option">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        提供設備 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu optionList">
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有電視"><label for="optionOne"><input type="checkbox" value="tv" id="optionOne"> <em>有電視</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有冷氣"><label for="optionTwo"><input type="checkbox" value="cold" id="optionTwo"> <em>有冷氣</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有冰箱"><label for="optionThree"><input type="checkbox" value="icebox" id="optionThree"> <em>有冰箱</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有熱水器"><label for="optionFour"><input type="checkbox" value="hotwater" id="optionFour"> <em>有熱水器</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有天然瓦斯"><label for="optionFive"><input type="checkbox" value="naturalgas" id="optionFive"> <em>有天然瓦斯</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有第四台"><label for="optionSix"><input type="checkbox" value="four" id="optionSix"> <em>有第四台</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有網絡"><label for="optionSeven"><input type="checkbox" value="broadband" id="optionSeven"> <em>有網絡</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有洗衣機"><label for="optionEight"><input type="checkbox" value="washer" id="optionEight"> <em>有洗衣機</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有床"><label for="optionBed"><input type="checkbox" value="bed" id="optionBed"> <em>床</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有衣櫃"><label for="optionTen"><input type="checkbox" value="wardrobe" id="optionTen"> <em>衣櫃</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有沙發"><label for="optionSofa"><input type="checkbox" value="sofa" id="optionSofa"> <em>沙發</em></label></a></li>
+    </ul>
+</div>
+
+<!--
+<div class="btn-group option">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        提供家具 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu optionList">
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有床"><label for="optionBed"><input type="checkbox" value="bed" id="optionBed"> <em>床</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有衣櫃"><label for="optionTen"><input type="checkbox" value="wardrobe" id="optionTen"> <em>衣櫃</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_提供设备有沙發"><label for="optionSofa"><input type="checkbox" value="sofa" id="optionSofa"> <em>沙發</em></label></a></li>
+    </ul>
+</div>
+-->                        <!--其他条件-->
+                <div class="btn-group other">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        其他條件 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu otherList">
+        <li><a google-data-stat=" 商用出租  _列表_其他条件有車位"><label for="otherOne"><input type="checkbox" value="cartplace" id="otherOne"> <em>有車位</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_其他条件有电梯"><label for="otherseven"><input type="checkbox" value="lift" id="otherseven"> <em>有電梯</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_其他条件有陽台"><label for="otherTwo"><input type="checkbox" value="balcony_1" id="otherTwo"> <em>有陽台</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_其他条件可開伙"><label for="otherThree"><input type="checkbox" value="cook" id="otherThree"> <em>可開伙</em></label></a></li>         <li><a google-data-stat=" 商用出租  _列表_其他条件可養寵物"><label for="otherFour"><input type="checkbox" value="pet" id="otherFour"> <em>可養寵物</em></label></a></li>        <li><a google-data-stat=" 商用出租  _列表_其他条件近公車站"><label for="otherFive"><input type="checkbox" value="tragoods" id="otherFive"> <em>近捷運</em></label></a></li>
+        <li><a google-data-stat=" 商用出租  _列表_其他条件可短期租賃"><label for="otherSix"><input type="checkbox" value="lease" id="otherSix"> <em>可短期租賃</em></label></a></li>    </ul>
+</div>
+                        <!--土地類別-->
+                <div class="btn-group houseclass">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        店面類型 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu houseClassList">
+        <li data-text="houseclass_11"><a href="javascript:;" google-data-stat="商用出租 _列表_店面類型分租店面">整租店面</a></li>
+        <li data-text="houseclass_12"><a href="javascript:;" google-data-stat="商用出租 _列表_店面類型整租店面">分租店面</a></li>
+    </ul>
+</div>
+
+<div class="btn-group storeway">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        頂讓方式 <span class="fa fa-angle-down" aria-hidden="true"></span>
+    </button>
+    <ul class="dropdown-menu storewayList">
+        <li data-text="storeway_1"><a href="javascript:;" google-data-stat="商用出租 _列表_頂讓方式不含設備">不含設備</a></li>
+        <li data-text="storeway_2"><a href="javascript:;" google-data-stat="商用出租 _列表_頂讓方式含部分設備">含部分設備</a></li>
+        <li data-text="storeway_3"><a href="javascript:;" google-data-stat="商用出租 _列表_頂讓方式含全部設備">含全部設備</a></li>
+    </ul>
+</div>
+
+<!-- <div class="btn-group role">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        經辦人 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu roleList">
+        <li data-text="1"><a href="javascript:;" google-data-stat="商用出租 _列表_经办人屋主刊登">屋主刊登</a></li>
+        <li data-text="2"><a href="javascript:;" google-data-stat="商用出租 _列表_经办人代理人刊登">代理人刊登</a></li>
+        <li data-text="3"><a href="javascript:;"google-data-stat="商用出租 _列表_经办人仲介刊登">仲介刊登</a></li>
+    </ul>
+</div> -->
+
+<div class="btn-group storestatus">
+    <button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        店面狀況 <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu storestatusList">
+        <li data-text="storestatus_1"><a href="javascript:;" google-data-stat="商用出租 _列表_店面狀況待租中">待租中</a></li>
+        <li data-text="storestatus_2"><a href="javascript:;" google-data-stat="商用出租 _列表_店面狀況營業中">營業中</a></li>
+    </ul>
+</div>
+            </div>
+        </section>
+    </section>
+    <!--條件篩選結束-->
+
+    <!--精選推薦開始-->
+                <!--精选推荐模板引擎-->
+    <section class="choicenessBox  z-init-1">
+    <div class="choiceness">
+        <h4>精選推薦<span class="pull-right"><a href="//www.591.com.tw/help-choice.html"  google-data-stat="商用出租 _列表_我也要出現在這裡">我也要出現在這裡 <i class="fa fa-angle-right" aria-hidden="true"></i></a></span></h4>
+        <div class="outBox">
+            <div class="articleList " style="height: 298px">
+                <ul class="articleListBox clearfix" id="articleListBox" style="height: 257px">
+                </ul>
+
+            </div>
+            <a class="arrow-left" href="javascript:;" google-data-stat="商用出租 出租_列表_圖片左切換"></a>
+            <a class="arrow-right" href="javascript:;" google-data-stat="商用出租 出租_列表_圖片右切換"></a>
+        </div>
+    </div>
+</section>
+
+<script type="text/html" id="articleListTpl">
+    <@ for (s = 0; s< topData.length; s ++) { @>
+    <li
+    <@ if((s+1)%5 == 0 && s != 0){ @>
+    class="last"
+    <@ } @>
+    >
+    <div>
+        <a title="<@=topData[s]['address'] @>" href="  //rent.591.com.tw/<@=topData[s]['detail_url'] @>  " target="_blank"
+<@ if( topData[s]['isAd'] > 0){ @>
+	onclick="clickAd(<@=topData[s]['type'] @>,<@=topData[s]['post_id'] @>,1)"
+<@ } @>
+>
+            <img src="<@=topData[s]['img_src'] @>" width="210" height="158" title="<@=topData[s]['alt'] @>" alt="<@=topData[s]['alt'] @>">
+
+            <@ if( topData[s]['photoNum'] > 0){ @>
+            <div class="imgSort">
+                <@=topData[s]['photoNum'] @>
+            </div>
+            <@ } @>
+
+        </a>
+        <p>
+            <a title="<@=topData[s]['address'] @>" href="  //rent.591.com.tw/<@=topData[s]['detail_url'] @>  " target="_blank"
+<@ if( topData[s]['isAd'] > 0){ @>
+	onclick="clickAd(<@=topData[s]['type'] @>,<@=topData[s]['post_id'] @>,1)"
+<@ } @>
+>
+
+                <@= topData[s]['address_2']@></a></p>
+        <p>
+
+            <@ if( topData[s]['section_str'] ){ @>
+            <span class="labelBox"><@=topData[s]['section_str'] @></span>
+            <@ } @>
+
+            <@ if( topData[s]['kind_str'] ){ @>
+            <span class="labelBox"><@=topData[s]['kind_str'] @></span>
+            <@ } @>
+
+            <@ if( topData[s]['area'] ){ @>
+            <span class="labelBox"><@=topData[s]['area'] @></span>
+            <@ } @>
+
+        </p>
+        <span><@=topData[s]['price']@></span> <@=topData[s]['price_unit']@>
+		<@ if( topData[s]['isAd'] > 0){ @>
+			onclick="clickAd(<@=topData[s]['type'] @>,<@=topData[s]['post_id'] @>,1)"
+				<img src="//business.591.com.tw/home/data/adStatic?type=<@=topData[s]['type'] @>&post_id=<@=topData[s]['post_id'] @>&source=1&cate=show" width="1" height="1"  title="<@=topData[s]['alt'] @>" alt="<@=topData[s]['alt'] @>" />
+		<@ } @>
+    </div>
+    </li>
+    <@ } @>
+</script>                <!--精選推薦開結束->
+
+    <!--列表頁開始 -->
+    <section class="listBox">
+        <div class="list clearfix">
+            <div class="listLeft">
+                <!--列表页切换-->
+                <ul class="listTips clearfix">
+                    <li class="select"  data-text="list"><a href="javascript:;" class="30">所有物件</a></li>
+                    <li  data-text="host"><a href="javascript:;">屋主</a></li>
+                                            <li data-text="clinch"><a href="javascript:;" >已成交</a></li>
+                                    </ul>
+                <div class="ulLine"></div>
+
+                <!--未搜索到内容-->
+                <div class="noInfo clearfix ">
+                    <div class="pull-left noInfoTips"></div>
+                    <div class="pull-left remind">
+                        <h4>很抱歉，我們暫時沒有為您找到合適的物件！</h4>
+                        <p>建議您：重新搜尋試看看唷~</p>
+                    </div>
+                </div>
+
+                <!--列表页排序--->
+                <!--列表页排序--->
+<div class="listSort clearfix"  >
+
+        <div class="pull-left hasData">共找到<i> 6,661 </i>間房屋</div>
+        <div class="pull-left nearRecom">為您推薦</div>
+
+    <div class="sort pull-right clearfix">
+
+        <div class="btn-group orderSelect">
+            <button type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <em>默認排序</em> <span class="fa fa-angle-down" aria-hidden="true"></span>
+            </button>
+            <ul class="dropdown-menu orderSelectList">
+                <li class="selected"><a href="javascript:;" data-bind="refreshtime">默認更新時間排序</a></li>
+                <li ><a href="javascript:;"data-bind="area" data-text="desc">坪數從大到小</a></li>
+                <li ><a href="javascript:;"data-bind="area" data-text="asc">坪數從小到大</a></li>
+                                <li ><a href="javascript:;"data-bind="money" data-text="desc">金額從大到小</a></li>
+                <li><a href="javascript:;" data-bind="money" data-text="asc">金額從小到大</a></li>
+                <li style="display: none;"><a href="javascript:;" data-bind="arrow" data-text="desc">成交時間从慢到块</a></li>
+                <li style="display: none;"><a href="javascript:;" data-bind="arrow" data-text="asc">成交時間从快到慢</a></li>
+                <li><a href="javascript:;" data-bind="posttime" data-text="desc">刊登時間從新到舊</a></li>
+                <li><a href="javascript:;" data-bind="posttime" data-text="asc">刊登時間從舊到新</a></li>
+                <li style="display: none;"><a href="javascript:;" data-bind="nearby" data-text="desc">步行距離從近到遠</a></li>
+            </ul>
+        </div>
+        <div class="sortOther btn btn-default btn-sm" data-text="posttime" data-bind="desc"><em>刊登時間</em>&nbsp;&nbsp;<i class="glyphicon glyphicon-arrow-up" aria-hidden="true"></i></div>
+        <div class="sortOther btn btn-default btn-sm" data-text="area" data-bind="asc"><em>坪數</em>&nbsp;&nbsp;<i class="glyphicon glyphicon-arrow-down" aria-hidden="true"></i></div>
+        <div class="sortOther btn btn-default btn-sm" data-text="money" data-bind="asc"><em>金額</em>&nbsp;&nbsp;<i class="glyphicon glyphicon-arrow-down" aria-hidden="true"></i></div>
+        <div class="sortOther btn btn-default btn-sm" data-text="nearby" data-bind="desc" style="display: none;"><em>步行距離</em>&nbsp;&nbsp;<i class="glyphicon glyphicon-arrow-up" aria-hidden="true"></i></div>
+        <div class="sortOther btn btn-default btn-sm" data-text="arrow" data-bind="desc" style="display: none;"><em>成交時間</em>&nbsp;&nbsp;<i class="glyphicon glyphicon-arrow-up" aria-hidden="true"></i></div>
+
+    </div>
+</div>
+                        <!--列表頁-->
+                <div id="content">
+
+                                                                        <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2016/09/04/147298771788581008_210x158.crop.jpg" width="210" height="158" data-bind="5746265" data-img-length="15" class="boxImg lazy" alt="台北租屋,大安租屋,辦公出租,捷運3秒鐘，4~5人辦公室含家具冷氣網路" tilte="台北租屋,大安租屋,辦公出租,捷運3秒鐘，4~5人辦公室含家具冷氣網路">
+                                    
+                                                                            <div class="imgSort">
+                                            15
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5746265.html
+                                                                                                " target="_blank">捷運3秒鐘，4~5人辦公室含家具冷氣網路</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>5.5坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：12/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>大安區-忠孝東路四段169號</em></p>
+                                    <p>
+                                         <em>屋主 徐小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>124人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5746265" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>18,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2016/09/04/147298834948398304_210x158.crop.jpg" width="210" height="158" data-bind="5746285" data-img-length="15" class="boxImg lazy" alt="台北租屋,大安租屋,辦公出租,3~4人捷運辦公室，全新裝潢含冷氣家具" tilte="台北租屋,大安租屋,辦公出租,3~4人捷運辦公室，全新裝潢含冷氣家具">
+                                    
+                                                                            <div class="imgSort">
+                                            15
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5746285.html
+                                                                                                " target="_blank">3~4人捷運辦公室，全新裝潢含冷氣家具</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>5.5坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：6/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>大安區-忠孝東路四段169號</em></p>
+                                    <p>
+                                         <em>屋主 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>10人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5746285" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>16,800</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2016/08/20/147162745141903604_210x158.crop.jpg" width="210" height="158" data-bind="5746327" data-img-length="15" class="boxImg lazy" alt="台北租屋,大安租屋,辦公出租,捷運2秒鐘！3~4人全新捷運裝潢辦公室" tilte="台北租屋,大安租屋,辦公出租,捷運2秒鐘！3~4人全新捷運裝潢辦公室">
+                                    
+                                                                            <div class="imgSort">
+                                            15
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5746327.html
+                                                                                                " target="_blank">捷運2秒鐘！3~4人全新捷運裝潢辦公室</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>3.5坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：12/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>大安區-忠孝東路四段221號</em></p>
+                                    <p>
+                                         <em>屋主 林小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>12人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5746327" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>14,500</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/19/151635197109164007_210x158.crop.jpg" width="210" height="158" data-bind="5837359" data-img-length="9" class="boxImg lazy" alt="台北租屋,松山租屋,辦公出租,稀有物件102坪近捷運5分鐘方正採光佳" tilte="台北租屋,松山租屋,辦公出租,稀有物件102坪近捷運5分鐘方正採光佳">
+                                    
+                                                                            <div class="imgSort">
+                                            9
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5837359.html
+                                                                                                " target="_blank">稀有物件102坪近捷運5分鐘方正採光佳</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>102坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：8/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>松山區-松山路</em></p>
+                                    <p>
+                                         <em>仲介 王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>7人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5837359" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>133,185</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/02/26/151964037775786809_210x158.crop.jpg" width="210" height="158" data-bind="5838587" data-img-length="2" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,捷運附近高級商辦大樓約72.5坪稀有物件" tilte="台北租屋,中山租屋,辦公出租,捷運附近高級商辦大樓約72.5坪稀有物件">
+                                    
+                                                                            <div class="imgSort">
+                                            2
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5838587.html
+                                                                                                " target="_blank">捷運附近高級商辦大樓約72.5坪稀有物件</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>72.5坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：6/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-南京東路二段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐或王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>3人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5838587" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>131,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2017/11/29/151192713287653504_210x158.crop.jpg" width="210" height="158" data-bind="5840503" data-img-length="6" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,捷運附近高級商辦大樓約64.7坪稀有物件" tilte="台北租屋,中山租屋,辦公出租,捷運附近高級商辦大樓約64.7坪稀有物件">
+                                    
+                                                                            <div class="imgSort">
+                                            6
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5840503.html
+                                                                                                " target="_blank">捷運附近高級商辦大樓約64.7坪稀有物件</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>64.7坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：9/16                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-松江路</em></p>
+                                    <p>
+                                         <em>仲介 李小姐或王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>2人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5840503" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>97,500</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/15/151599520207639201_210x158.crop.jpg" width="210" height="158" data-bind="5988200" data-img-length="3" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,建國北路高級商辦大樓143坪" tilte="台北租屋,中山租屋,辦公出租,建國北路高級商辦大樓143坪">
+                                    
+                                                                            <div class="imgSort">
+                                            3
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-5988200.html
+                                                                                                " target="_blank">建國北路高級商辦大樓143坪</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>143坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：6/11                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-建國北路一段</em></p>
+                                    <p>
+                                         <em>仲介 鄭先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>5人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="5988200" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>170,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/03/151497004878392503_210x158.crop.jpg" width="210" height="158" data-bind="6002526" data-img-length="4" class="boxImg lazy" alt="台北租屋,中正租屋,辦公出租,可掛招牌醫美美甲辦公使用稀有物件" tilte="台北租屋,中正租屋,辦公出租,可掛招牌醫美美甲辦公使用稀有物件">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6002526.html
+                                                                                                " target="_blank">可掛招牌醫美美甲辦公使用稀有物件</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>45.8坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：5/8                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中正區-桃源街</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>7人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6002526" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>62,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/19/151635878633768602_210x158.crop.jpg" width="210" height="158" data-bind="6002951" data-img-length="5" class="boxImg lazy" alt="台北租屋,信義租屋,辦公出租,捷運附近約56.03坪6.7萬稀有物件" tilte="台北租屋,信義租屋,辦公出租,捷運附近約56.03坪6.7萬稀有物件">
+                                    
+                                                                            <div class="imgSort">
+                                            5
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6002951.html
+                                                                                                " target="_blank">捷運附近約56.03坪6.7萬稀有物件</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>56坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：9/20                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>信義區-光復南路</em></p>
+                                    <p>
+                                         <em>仲介 王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>11人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6002951" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>67,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/01/22/151660398511793008_210x158.crop.jpg" width="210" height="158" data-bind="6010366" data-img-length="3" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,高級商業大樓有裝潢高樓層採光佳" tilte="台北租屋,中山租屋,辦公出租,高級商業大樓有裝潢高樓層採光佳">
+                                    
+                                                                            <div class="imgSort">
+                                            3
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6010366.html
+                                                                                                " target="_blank">高級商業大樓有裝潢高樓層採光佳</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>30坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：8/8                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-南京東路二段</em></p>
+                                    <p>
+                                         <em>仲介 王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>7人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6010366" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>47,500</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/23/151669286138674301_210x158.crop.jpg" width="210" height="158" data-bind="6013951" data-img-length="6" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,捷運站旁邊約48.8坪方正漂亮裝潢" tilte="台北租屋,中山租屋,辦公出租,捷運站旁邊約48.8坪方正漂亮裝潢">
+                                    
+                                                                            <div class="imgSort">
+                                            6
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6013951.html
+                                                                                                " target="_blank">捷運站旁邊約48.8坪方正漂亮裝潢</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>48.8坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：8/14                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-中山北路二段</em></p>
+                                    <p>
+                                         <em>仲介 王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>4人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6013951" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>58,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/26/151695486978424409_210x158.crop.jpg" width="210" height="158" data-bind="6023268" data-img-length="3" class="boxImg lazy" alt="台北租屋,中正租屋,店面出租,永康街東門捷運人潮多好做生意" tilte="台北租屋,中正租屋,店面出租,永康街東門捷運人潮多好做生意">
+                                    
+                                                                            <div class="imgSort">
+                                            3
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6023268.html
+                                                                                                " target="_blank">永康街東門捷運人潮多好做生意</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    店面
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>33坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：1/4                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中正區-信義路二段</em></p>
+                                    <p>
+                                         <em>仲介 林先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>10人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6023268" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>200,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2017/12/28/151445872143711406_210x158.crop.jpg" width="210" height="158" data-bind="6104680" data-img-length="7" class="boxImg lazy" alt="台北租屋,松山租屋,辦公出租,捷運附近稀有漂亮裝潢約110坪" tilte="台北租屋,松山租屋,辦公出租,捷運附近稀有漂亮裝潢約110坪">
+                                    
+                                                                            <div class="imgSort">
+                                            7
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6104680.html
+                                                                                                " target="_blank">捷運附近稀有漂亮裝潢約110坪</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>110坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：8/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>松山區-八德路四段</em></p>
+                                    <p>
+                                         <em>仲介 王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>13人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6104680" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>110,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2017/04/19/149259003111706907_210x158.crop.jpg" width="210" height="158" data-bind="6104700" data-img-length="5" class="boxImg lazy" alt="台北租屋,信義租屋,辦公出租,捷運站有隔間" tilte="台北租屋,信義租屋,辦公出租,捷運站有隔間">
+                                    
+                                                                            <div class="imgSort">
+                                            5
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6104700.html
+                                                                                                " target="_blank">捷運站有隔間</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>136坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：8/11                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>信義區-基隆路一段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐或王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>3人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6104700" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>149,600</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2017/06/01/149629029563201909_210x158.crop.jpg" width="210" height="158" data-bind="6104715" data-img-length="5" class="boxImg lazy" alt="台北租屋,大同租屋,辦公出租,台北車站附近辦公41.86坪大樓方正格局" tilte="台北租屋,大同租屋,辦公出租,台北車站附近辦公41.86坪大樓方正格局">
+                                    
+                                                                            <div class="imgSort">
+                                            5
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6104715.html
+                                                                                                " target="_blank">台北車站附近辦公41.86坪大樓方正格局</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>41.9坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：8/13                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>大同區-華陰街</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>5人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6104715" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>60,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2016/03/31/145939963827185408_210x158.crop.jpg" width="210" height="158" data-bind="6104720" data-img-length="4" class="boxImg lazy" alt="台北租屋,中正租屋,辦公出租,中正區辦公室出租有裝潢隔間稀有物件" tilte="台北租屋,中正租屋,辦公出租,中正區辦公室出租有裝潢隔間稀有物件">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6104720.html
+                                                                                                " target="_blank">中正區辦公室出租有裝潢隔間稀有物件</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>74.1坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：3/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中正區-杭州南路一段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐或王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>4人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6104720" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>80,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2017/02/17/148732255415264402_210x158.crop.jpg" width="210" height="158" data-bind="6104726" data-img-length="2" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,站前捷運商圈全新辦公室出租" tilte="台北租屋,中山租屋,辦公出租,站前捷運商圈全新辦公室出租">
+                                    
+                                                                            <div class="imgSort">
+                                            2
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6104726.html
+                                                                                                " target="_blank">站前捷運商圈全新辦公室出租</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>138坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：7/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-中山北路二段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>4人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6104726" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>180,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/02/27/151970584433192506_210x158.crop.jpg" width="210" height="158" data-bind="6104897" data-img-length="6" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,住辦大樓一層一戶權狀58.56坪租六萬" tilte="台北租屋,中山租屋,辦公出租,住辦大樓一層一戶權狀58.56坪租六萬">
+                                    
+                                                                            <div class="imgSort">
+                                            6
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6104897.html
+                                                                                                " target="_blank">住辦大樓一層一戶權狀58.56坪租六萬</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>58.6坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：5/7                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-長安東路一段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>17人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6104897" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>60,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/01/25/151685867441358708_210x158.crop.jpg" width="210" height="158" data-bind="6105018" data-img-length="3" class="boxImg lazy" alt="台北租屋,信義租屋,辦公出租,捷運站有隔間高樓層採光佳有裝潢隔間" tilte="台北租屋,信義租屋,辦公出租,捷運站有隔間高樓層採光佳有裝潢隔間">
+                                    
+                                                                            <div class="imgSort">
+                                            3
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6105018.html
+                                                                                                " target="_blank">捷運站有隔間高樓層採光佳有裝潢隔間</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>203.1坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：B1/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>信義區-松德路</em></p>
+                                    <p>
+                                         <em>仲介 李小姐或王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>4人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6105018" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>200,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/03/02/151997841329457109_210x158.crop.jpg" width="210" height="158" data-bind="6119127" data-img-length="4" class="boxImg lazy" alt="台北租屋,大同租屋,辦公出租,近民權西捷運站,優質純辦" tilte="台北租屋,大同租屋,辦公出租,近民權西捷運站,優質純辦">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6119127.html
+                                                                                                " target="_blank">近民權西捷運站,優質純辦</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>63.2坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：5/14                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>大同區-民權西路</em></p>
+                                    <p>
+                                         <em>仲介 林先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>3人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6119127" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>69,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/03/02/151998021395565409_210x158.crop.jpg" width="210" height="158" data-bind="6119254" data-img-length="2" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,稀有租金超低價63.23坪6.9萬" tilte="台北租屋,中山租屋,辦公出租,稀有租金超低價63.23坪6.9萬">
+                                    
+                                                                            <div class="imgSort">
+                                            2
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6119254.html
+                                                                                                " target="_blank">稀有租金超低價63.23坪6.9萬</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>56.9坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：5/14                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-民權西路</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>2人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6119254" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>69,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2017/12/18/151358382671655102_210x158.crop.jpg" width="210" height="158" data-bind="6133172" data-img-length="4" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,(含稅,含管)優質辦公室,方正,低公設" tilte="台北租屋,中山租屋,辦公出租,(含稅,含管)優質辦公室,方正,低公設">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6133172.html
+                                                                                                " target="_blank">(含稅,含管)優質辦公室,方正,低公設</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>40坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：6/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-長安東路二段</em></p>
+                                    <p>
+                                         <em>仲介 林先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>9人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6133172" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>46,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/03/07/152041012063098500_210x158.crop.jpg" width="210" height="158" data-bind="6138087" data-img-length="6" class="boxImg lazy" alt="台北租屋,大同租屋,辦公出租,松山線捷運有裝潢權狀90.59坪稀有物件" tilte="台北租屋,大同租屋,辦公出租,松山線捷運有裝潢權狀90.59坪稀有物件">
+                                    
+                                                                            <div class="imgSort">
+                                            6
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6138087.html
+                                                                                                " target="_blank">松山線捷運有裝潢權狀90.59坪稀有物件</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>90.6坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：7/10                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                            
+                                                捷運中山站
+
+                                            
+                                        
+                                        <em>大同區-南京西路</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>2人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6138087" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>170,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/03/07/152041080611276805_210x158.crop.jpg" width="210" height="158" data-bind="6138156" data-img-length="4" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,超低價辦公室出租權狀78坪稀有物件釋出" tilte="台北租屋,中山租屋,辦公出租,超低價辦公室出租權狀78坪稀有物件釋出">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6138156.html
+                                                                                                " target="_blank">超低價辦公室出租權狀78坪稀有物件釋出</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>78坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：3/9                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                            
+                                                松江路商圈
+
+                                            
+                                        
+                                        <em>中山區-長安東路二段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>5人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6138156" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>85,800</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/03/09/152057811547233908_210x158.crop.jpg" width="210" height="158" data-bind="6148597" data-img-length="9" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,優質裝潢/三面採光無敵/使用49.32坪" tilte="台北租屋,中山租屋,辦公出租,優質裝潢/三面採光無敵/使用49.32坪">
+                                    
+                                                                            <div class="imgSort">
+                                            9
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6148597.html
+                                                                                                " target="_blank">優質裝潢/三面採光無敵/使用49.32坪</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>52.4坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：3/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-建國北路二段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>6人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6148597" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>67,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/03/13/152092705451822406_210x158.crop.jpg" width="210" height="158" data-bind="6158845" data-img-length="3" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,A+純辦,氣派門廳,採光佳" tilte="台北租屋,中山租屋,辦公出租,A+純辦,氣派門廳,採光佳">
+                                    
+                                                                            <div class="imgSort">
+                                            3
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6158845.html
+                                                                                                " target="_blank">A+純辦,氣派門廳,採光佳</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>65.3坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：11/11                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-林森北路</em></p>
+                                    <p>
+                                         <em>仲介 林先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>3人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6158845" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>91,462</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/03/14/152100721579082102_210x158.crop.jpg" width="210" height="158" data-bind="6165468" data-img-length="4" class="boxImg lazy" alt="台北租屋,中山租屋,辦公出租,正復興北路上優質純辦大樓" tilte="台北租屋,中山租屋,辦公出租,正復興北路上優質純辦大樓">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6165468.html
+                                                                                                " target="_blank">正復興北路上優質純辦大樓</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>70.1坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：6/14                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                        <em>中山區-復興南路一段</em></p>
+                                    <p>
+                                         <em>仲介 林先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>3人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6165468" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>136,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/03/16/152119300352767608_210x158.crop.jpg" width="210" height="158" data-bind="6170135" data-img-length="7" class="boxImg lazy" alt="台北租屋,大同租屋,辦公出租,捷運附近稀有新大樓有裝潢稀有物件釋出" tilte="台北租屋,大同租屋,辦公出租,捷運附近稀有新大樓有裝潢稀有物件釋出">
+                                    
+                                                                            <div class="imgSort">
+                                            7
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6170135.html
+                                                                                                " target="_blank">捷運附近稀有新大樓有裝潢稀有物件釋出</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>66.4坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：7/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                            
+                                                北門站商圈
+
+                                            
+                                        
+                                        <em>大同區-鄭州路</em></p>
+                                    <p>
+                                         <em>仲介 鄭先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>4人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6170135" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>108,900</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp2.591.com.tw/house/active/2018/03/16/152119420845987906_210x158.crop.jpg" width="210" height="158" data-bind="6170206" data-img-length="4" class="boxImg lazy" alt="台北租屋,松山租屋,辦公出租,小巨蛋商圈有裝潢權狀49.17坪租金6萬" tilte="台北租屋,松山租屋,辦公出租,小巨蛋商圈有裝潢權狀49.17坪租金6萬">
+                                    
+                                                                            <div class="imgSort">
+                                            4
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6170206.html
+                                                                                                " target="_blank">小巨蛋商圈有裝潢權狀49.17坪租金6萬</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>49.2坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：4/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                            
+                                                小巨蛋
+
+                                            
+                                        
+                                        <em>松山區-南京東路四段</em></p>
+                                    <p>
+                                         <em>仲介 鄭先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>9人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6170206" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>60,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                    <ul class="listInfo clearfix ">
+                                <li class="pull-left imageBox">
+                                    <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="https://hp1.591.com.tw/house/active/2018/03/20/152152218505862307_210x158.crop.jpg" width="210" height="158" data-bind="6180317" data-img-length="10" class="boxImg lazy" alt="台北租屋,中正租屋,辦公出租,忠孝東路上權狀135.23坪物件釋出" tilte="台北租屋,中正租屋,辦公出租,忠孝東路上權狀135.23坪物件釋出">
+                                    
+                                                                            <div class="imgSort">
+                                            10
+                                        </div>
+                                                                    </li>
+                                <li class="pull-left infoContent">
+
+                                    <h3>
+                                        <a href="
+                                                                                        //rent.591.com.tw/rent-detail-6180317.html
+                                                                                                " target="_blank">忠孝東路上權狀135.23坪物件釋出</a>
+                                                                                    <span class="labelOne">黄金曝光</span>
+                                                                            </h3>
+                                    <p class="lightBox">
+                                                                                                                                    辦公
+                                                <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>135.2坪                                                 <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i>樓層：7/12                                                                                                                        </p>
+                                    <p class="lightBox">
+
+                                        
+                                            
+                                                善導寺捷運商圈
+
+                                            
+                                        
+                                        <em>中正區-忠孝東路一段</em></p>
+                                    <p>
+                                         <em>仲介 李小姐或王先生</em>&nbsp;/&nbsp;                                         <em>7分鐘內更新</em>&nbsp;                                                                                /&nbsp;<em>5人瀏覽</em>&nbsp;
+                                                                                    <b class="showyestoday"></b>
+                                                                            </p>
+
+                                    <span class="shoucang"><a data-text="6180317" data-bind="0" href="javascript:;" title="收藏"></a></span>
+
+                                </li>
+                                <div class="price"><i>210,000</i> 元/月
+
+                                </div>
+
+                                                                
+                            </ul>
+                                                            </div>
+
+                <!--分页-->
+                <div class="page-limit">
+                    <div class="pageBar"><a class="pagePrev first"><span>上一頁</span></a><span class="pageCurrent">1</span><a class="pageNum-form" href="javascript:;"  data-first="30" data-total="6661" >2</a><a class="pageNum-form" href="javascript:;"  data-first="60" data-total="6661" >3</a><a class="pageNum-form" href="javascript:;"  data-first="90" data-total="6661" >4</a><a class="pageNum-form" href="javascript:;"  data-first="120" data-total="6661" >5</a><a class="pageNum-form" href="javascript:;"  data-first="150" data-total="6661" >6</a><span class="pageBreak">...</span><a class="pageNum-form" href="javascript:;"  data-first="6660" data-total="6661" >223</a><a href="javascript:;" data-first="30" data-total="6661"  class="pageNext"><span>下一頁</span></a><span class="TotalRecord">  共 <span class="R">6661 </span>筆</span></div>
+                </div>
+
+            </div>
+            <div class="listRight">
+                <div class="publishBtn" >
+                                            <a href="//www.591.com.tw/index.php?module=house&action=postFirst&type=rent" target="_blank">刊登出租</a>
+                                    </div>
+
+                
+                <div id="UNION_45" class="union_responsive" style="margin:10px auto;"></div>
+
+                
+                <div id="UNION_47" class="union_responsive" style="margin:10px auto;"></div>
+
+                <!--推荐物件-->
+                <style>
+    .recommendList .ellipsis {overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+</style>
+
+<div class="recommendList"  style="display:none;" >
+    <h4 class="clearfix">
+        推薦物件
+    </h4>
+    <ul class="articleList clearfix" id="recommendList">
+        
+    </ul>
+</div>
+
+<script type="text/html" id="recommendListTpl">
+    <@ if(biddings.length > 0){ @>
+        <@ for (s = 0; s< biddings.length; s ++) { @>
+            <li>
+            <div class="biddingonepx" data-id="<@=biddings[s]['post_id'] @>">
+                <a title="<@=biddings[s]['title'] @>" href="<@=biddings[s]['url'] @>" target="_blank"  google-data-stat="新版商用_列表_推薦物件圖片"
+                <@ if( s< 5){ @>
+                onclick="clickCount(<@=biddings[s]['typeVal'] @>,<@=biddings[s]['post_id'] @>,<@=biddings[s]['region'] @>,6<@=s+1 @>)"
+                <@ } @>
+                >
+
+                    <img src="<@=biddings[s]['photo_src'] @>" width="210" height="158" title="<@=biddings[s]['title'] @>" alt="<@=biddings[s]['title'] @>">
+
+                    <@ if( biddings[s]['img_num'] > 0){ @>
+                    <div class="imgSort">
+                        <@=biddings[s]['img_num'] @>
+                    </div>
+                    <@ } @>
+                </a>
+                <p class="ellipsis"><a href="<@=biddings[s]['url'] @>" title="<@=biddings[s]['title'] @>" target="_blank" google-data-stat="新版商用_列表_推薦物件圖片"><@=biddings[s]['title'] @></a></p>
+                <p>
+                    <span class="bidding-tag"><@=biddings[s]['section_str'] @></span><span class="bidding-tag"><@=biddings[s]['kindStr'] @></span>
+                    <@ if(biddings[s]['kind']  == '1') { @>
+                        <span class="bidding-tag"><@=biddings[s]['layout'] @></span>
+                    <@ }else { @>
+                        <span class="bidding-tag"><@=biddings[s]['area'] @></span>
+                    <@ } @>
+                </p>
+
+                <span><@=biddings[s]['price_value']@></span> <@=biddings[s]['price_unit']@>
+                <img src="https://www.591.com.tw/images/index/house/newVersion/lazyload.gif" class="countlazy" style="width:1px;height:1px;" width="1" height="1" data-original="//www.591.com.tw/home/data/exposureCount?post_id=<@=biddings[s]['post_id'] @>&type=1&region=<@=biddings[s]['region'] @>&opt=1&sign=6<@=s+1 @>" />
+            </div>
+            </li>
+        <@ } @>
+    <@ } @>
+</script>
+               
+            </div>
+        </div>
+
+    </section>
+
+
+    <!--縮略圖-->
+    <div zid="1813241" style="display: none" id="photoViewer" class="photoex">
+        <div id="photoMain">
+            <a target="_blank" id="photoMainLink" href="rent-detail-1813241.html">
+                <img src="./static/public/list/images/loading.gif" id="mainphotoloader" style="display: none;">
+                <img width="400" height="290" id="photoMainImg" src="" alt="">
+            </a>
+        </div>
+        <div class="minithumbs">
+            <div class="viewmore">
+                <ul class="carrot">
+                    <li></li>
+                </ul>
+            </div>
+            <div class="minithumbList"></div>
+        </div>
+    </div>
+    <!--列表頁結束-->
+
+    <input type="hidden" id="hid_rootUrl" value="">
+    <input type="hidden" id="hid_isRewrite" value="business">
+    <input type="hidden" id="hid_searchSort" value="">
+    <input type="hidden" id="hid_domain" value="business">
+    <input type="hidden" id="hid_type" value="1">
+    <input type="hidden" id="hid_kind" value="5">
+    <input type="hidden" id="hid_sort" value="">
+    <input type="hidden" id="hid_initLimit" value="type=1" />
+    <input type="hidden" id="businessUrl" value="//business.591.com.tw">
+    <input type="hidden" id="base_url" value="//www.591.com.tw">
+    <input type="hidden" id="favNum" value="0">
+    <input type="hidden" id="hid_role" value="">
+
+    <!--底部SEO鏈接開始-->
+    <!-- 廣告位 -->
+<div id="PAGE_AD_775" class="clearfix PAGEAD" style="width:1200px; margin:10px auto;"></div>
+
+<section class="seoNav">
+    <div class="seoLink">
+    <p class="clearfix">
+    	<span class="fcGry">租屋相關資訊：</span>
+    	    	    	<a href="//business.591.com.tw?type=1&kind=5 ">店面出租</a>
+    	    	<a href="//business.591.com.tw?type=6 ">店面頂讓</a>
+    	    	<a href="//business.591.com.tw?type=1&kind=6 ">辦公出租</a>
+    	    	<a href="//business.591.com.tw?type=1&kind=12 ">住辦出租</a>
+    	    	<a href="//business.591.com.tw?type=1&kind=11 ">土地出租</a>
+    	    	<a href="//business.591.com.tw?type=1&kind=7 ">廠房出租</a>
+    	    	<a href="//business.591.com.tw?type=1&kind=8 ">車位出租</a>
+    	    	    </p>
+    <p class="clearfix changRegion"><span class="fc-gry">熱門縣市租屋：</span>
+                <a data-text="1" data-bind="1" data-value="5" href="javascript:;">台北市</a>
+            <a data-text="3" data-bind="1" data-value="5" href="javascript:;">新北市</a>
+            <a data-text="8" data-bind="1" data-value="5" href="javascript:;">台中市</a>
+            <a data-text="6" data-bind="1" data-value="5" href="javascript:;">桃園市</a>
+            <a data-text="17" data-bind="1" data-value="5" href="javascript:;">高雄市</a>
+            <a data-text="15" data-bind="1" data-value="5" href="javascript:;">台南市</a>
+            <a data-text="4" data-bind="1" data-value="5" href="javascript:;">新竹市</a>
+            <a data-text="5" data-bind="1" data-value="5" href="javascript:;">新竹縣</a>
+            <a data-text="7" data-bind="1" data-value="5" href="javascript:;">苗栗縣</a>
+            <a data-text="2" data-bind="1" data-value="5" href="javascript:;">基隆市</a>
+            <a data-text="10" data-bind="1" data-value="5" href="javascript:;">彰化縣</a>
+            <a data-text="12" data-bind="1" data-value="5" href="javascript:;">嘉義市</a>
+            <a data-text="21" data-bind="1" data-value="5" href="javascript:;">宜蘭縣</a>
+            <a data-text="23" data-bind="1" data-value="5" href="javascript:;">花蓮縣</a>
+            <a data-text="19" data-bind="1" data-value="5" href="javascript:;">屏東縣</a>
+            <a data-text="14" data-bind="1" data-value="5" href="javascript:;">雲林縣</a>
+            <a data-text="13" data-bind="1" data-value="5" href="javascript:;">嘉義縣</a>
+            <a data-text="11" data-bind="1" data-value="5" href="javascript:;">南投縣</a>
+            <a data-text="22" data-bind="1" data-value="5" href="javascript:;">台東縣</a>
+            <a data-text="25" data-bind="1" data-value="5" href="javascript:;">金門縣</a>
+            <a data-text="24" data-bind="1" data-value="5" href="javascript:;">澎湖縣</a>
+            <a data-text="26" data-bind="1" data-value="5" href="javascript:;">連江縣</a>
+            </div>
+</section>
+<!--seo优化-->
+<h1 style="display: none;">【台北市店面出租】-591房屋交易網</h1>
+
+<div class="bottomLine"></div>    <!--底部SEO鏈接結束-->
+
+    </div>
+
+    
+        
+    <div id="footer">
+    <div class="footnav">
+        <div class="grouplink border ellipsis">
+            <a href="http://www.addcn.com.tw/investment-basic.html" class="first" target="_blank">投資者專區</a>
+            <a href="http://www.addcn.com.tw/media-third_pp.html" target="_blank">第三方支付新聞</a>
+            <a href="http://www.addcn.com/about-info.html">關於我們</a>
+            <a href="//www.591.com.tw/advertisement">廣告刊登</a>
+            <a href="//www.591.com.tw/links.html">交換連結</a>
+            <a href="//www.591.com.tw/message-moremessage.html?titleType=news">新聞剪輯</a>
+            <a href="http://www.addcn.com.tw/social-welfare2012.html" target="_blank">社會公益</a>
+            <a href="http://591.com.tw/yU0">免責聲明</a>
+            <a href="http://591.com.tw/yUY">服務條款</a>
+            <a href="http://591.com.tw/yUW">隱私權聲明</a>
+            <a href="http://www.8591.com.tw/dealer.php" target="_blank">數字經銷商</a>
+        </div>
+        <div class="grouplink ellipsis">
+            <a href="//www.591.com.tw" target="_blank">香港591房屋交易網</a>
+            <a href="//rent.591.com.tw" target="_blank">591租屋</a>
+            <a href="//sale.591.com.tw" target="_blank">591中古屋</a>
+            <a href="//newhouse.591.com.tw" target="_blank">591新建案</a>
+            <a href="//design.591.com.tw/?aid=1169" target="_blank">100室內設計</a>
+            <a href="http://www.8591.com.tw" target="_blank">8591寶物交易網</a>
+            <a href="http://www.8891.com.tw/" target="_blank">8891中古車網</a>
+            <a href="http://c.8891.com.tw/" target="_blank">8891新車網</a>
+            <a href="http://www.101vip.com.tw/" target="_blank">101名品會</a>
+            <a href="http://www.518.com.tw/" class="noline" target="_blank">518人力銀行</a><br/>
+            <a href="http://case.518.com.tw/" target="_blank">518外包網</a>
+            <a href="http://yp.518.com.tw/" target="_blank">518黃頁</a>
+            <a href="http://www.518.com.tw/active-518ptapp.html" target="_blank">518找打工</a>
+        </div>
+        <!-- <div class="fc-gray">
+            客服信箱：<a href="mailto:service@591.com.tw">service@591.com.tw</a>　客服電話：02-55722000　(服務時間：週一至週日 9:00-18:00 )
+        </div> -->
+
+        <div class="copyright">Copyright &copy; 2007-2018 by Addcn Technology Co., Ltd. All Rights reserved.</div>
+        
+    </div>
+</div>
+
+    
+    <!-- 側邊工具欄 -->
+<div class="side_tool_wrap newFiexdSide">
+    <div class="side_tool">
+        <ul class="">
+            <li>
+                <a href="javascript:;" class="historyList" google-data-stat="公共部分_工具欄_歷史記錄"></a>
+                <div class="side-show side-txt historyList cursor"><i></i>歷史記錄</div>
+            </li>
+            <li>
+                <a href="javascript:;" class="collectionList" google-data-stat="公共部分_工具欄_收藏記錄"></a>
+                <div class="side-show side-txt collectionList cursor"><i></i>收藏記錄</div>
+            </li>
+            <li>
+                <a href="javascript:;" class="qrcode" google-data-stat="公共部分_工具欄_下載591APP"></a>
+                <div class="side-show side_img"><img src="//s.591.com.tw/static/public/component/images/code.png" width="140" height="172" alt="下載591APP"></div>
+            </li>
+            <li>
+                <a href="javascript:;" class="proposal" google-data-stat="公共部分_工具欄_意見反饋"></a>
+                <div class="side-show side-txt proposal cursor"><i></i>意見反饋</div>
+            </li>
+            <li>
+                <a href="javascript:;" class="online" google-data-stat="公共部分_工具欄_在線客服"></a>
+                <div class="side-show side-txt online cursor"><i></i>在線客服</div>
+            </li>
+            <li>
+                <a href="javascript:;" class="addCollec" google-data-stat="公共部分_工具欄_加入收藏"></a>
+                <div class="side-show side-txt addCollec cursor"><i></i>加入收藏</div>
+            </li>
+        </ul>
+        <ul style="position: fixed; bottom: 10%;">
+            <li>
+                <a href="javascript:;" class="backtop" style="display: none;" google-data-stat="公共部分_工具欄_返回頂部"></a>
+                <div class="side-show side-txt"><i></i>返回頂部</div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 列表(收藏列表 & 浏览历史列表)容器 -->
+<div class="record-body">
+    <div class="record-wrap">
+        <div class="record-container">
+            <div class="record-header">
+                <span class="record-title"></span>
+                <i class="record-close">
+                    <img src="//img.591.com.tw/static/index/images/historyClose.png" alt="">
+                </i>
+            </div>
+            <div class="record-tab">
+                <div class="record-tab-rent record-tab-item record-tab-on">出租</div>
+                <div class="record-tab-sale record-tab-item">中古屋</div>
+                <div class="record-tab-newhouse record-tab-item">新建案</div>
+            </div>
+            <div class="record-list" id="record-list">
+            </div>
+            <div class="record-bottom">
+            </div>
+            <a href="/user-login.html" class="record-colle-bottom">
+            </a>
+        </div>
+        <div class="record-empty">
+            <div class="record-empty-img">
+                <img src="//img.591.com.tw/static/index/images/colleEmpty.png" alt="">
+            </div>
+            <div class="record-empty-txt">您還沒有瀏覽記錄唷</div>
+            <div class="record-empty-close">關閉</div>            
+        </div>
+        <div class="record-colle-empty">
+            <div class="colle-empty-img">
+                <img src="//img.591.com.tw/static/index/images/colleEmpty.png" alt="">
+            </div>
+            <div class="colle-empty-txt">您還沒有收藏物件哦</div>
+            <div class="colle-empty-close">關閉</div>            
+        </div>
+    </div>
+</div>
+
+<!-- 列表物件模板 -->
+<script  type="text/html" id="historyListTpl">
+    <@ for (x = 0; x< data.length; x++){ @>
+
+        <a href="<@=data[x].url @>" class="record-list-a" data-id="<@  if(data[x].type=='newhouse') {@><@=data[x].hid@><@}else{@> <@=data[x].post_id@> <@}@>" target="_blank">
+            <div class="record-list-up">
+                <img src="<@  if(data[x].type=='newhouse') {@><@=data[x].cover@><@}else{@><@=data[x].photo_src@><@}@>" alt="" class="record-list-img">
+                <i class="record-list-nums"><@  if(data[x].type=='newhouse') {@><@=data[x].photo_num@><@}else{@><@=data[x].img_num@><@}@></i>                
+            </div>
+
+            <div class="record-list-ctx"><@  if(data[x].type=='newhouse') {@><@=data[x].build_name@><@}else{@><@=data[x].title@><@}@></div>
+
+            <div class="record-list-down">
+                <span class="record-list-money"><@  if(data[x].type=='newhouse') {@><@=data[x].price@><@}else{@><@=data[x].price_value@><@}@></span>
+                <span class="record-list-unit"><@=data[x].price_unit @></span>
+                <i class="record-list-colle" data-id="<@  if(data[x].type=='newhouse') {@><@=data[x].hid@>@> <@}else{@><@=data[x].post_id@><@}@>"></i>
+            </div>
+            <i class="record-list-del" data-id="<@ if(data[x].type=='newhouse') {@><@=data[x].hid@>@> <@}else{@><@=data[x].post_id@><@}@>"></i>
+        </a>
+    <@ } @>
+</script>
+
+<style>
+    /* 工具栏样式 */
+    .side_tool_wrap {width: 35px;position: fixed;right: 0;top: 0;height: 100%;border-right: 3px solid #858384;text-align: center;display: none;z-index: 999;padding-top: 20%;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}
+    .side_tool_wrap .cursor {cursor: pointer;}
+    .side_tool_wrap .side_tool {width: 100%;position: absolute;top: 50%;margin-top: -114px;}
+    .side_tool_wrap li {margin-bottom: 3px;position: relative;background: #858384;}
+    .side_tool_wrap li.active a, .side_tool_wrap li.active .collect {background-color: #f60;}
+    .side_tool_wrap li a {display: block;width: 35px;height: 35px;background: url("//s.591.com.tw/static/public/component/images/side_icon.png");}
+    .side_tool_wrap li a.historyList {background-position: 0 -160px;}
+    .side_tool_wrap li a.collectionList {background-position: 0 -98px;}
+    .side_tool_wrap li a.qrcode {background-position: 0 -65px;}
+    .side_tool_wrap li a.proposal {background-position: 0 -2px;}
+    .side_tool_wrap li a.online {background-position: 0 -134px;}
+    .side_tool_wrap li a.addCollec {background-position: 0 -191px;}
+    .side_tool_wrap li a.backtop {background-position: 0 -32px;}
+    .side_tool_wrap li .side-show {position: absolute;right: 48px;top: 0;display: none;opacity: 0;}
+    .side_tool_wrap li .side-txt {padding: 0 14px;color: #fff;font-size: 12px;background: #666666;white-space: nowrap;height: 35px;line-height: 35px;}
+    .side_tool_wrap li .side-txt i {position: absolute;right: 0;top: 50%;width: 0;height: 0;margin: -5px -10px 0 0;font-size: 0;border: 5px solid;border-color: transparent transparent transparent #666666;overflow: hidden;}
+    .side_tool_wrap li .side_img {width: 140px;height: 172px;top: -130px;}
+    .side_tool_wrap .side_tool .qrcode_img {position: absolute;left: -91px;top: 34px;display: none;}
+
+    /* 列表及物件样式 */
+    .record-body {position: fixed;top: 0;right: -270px;height: 100%;background: #f5f5f5;z-index: 999;overflow-y: scroll;overflow-x: hidden;display: none;}
+    .record-body .record-wrap {position: relative;width: 100%;}
+    .record-body .record-header {width: 100%;position: relative;margin-top: 20px;margin-bottom: 16px;padding-left: 20px;}
+    .record-body .record-title {font-size: 16px;font-weight: bold;color: #333;}
+    .record-body .record-close {position: absolute;top: 0;right: 20px;cursor: pointer;z-index: 99;}
+    .record-body .record-tab {display: none;background: #f5f5f5;height: 50px;margin: 30px 0;}
+    .record-body .record-tab-item {float: left;background: #fff;width: 33%;height: 40px;font-size: 16px;line-height: 40px;text-align: center;cursor: pointer;}
+    .record-body .record-tab-item:hover {color: #ff6e00;}
+    .record-body .record-list {margin-left: 10px;margin-right: 13px;padding-bottom: 48px;}
+    .record-body .record-list-a {background: #ffffff;padding: 10px;margin-bottom: 10px;position: relative;display: block;}
+    .record-body .record-list-up {position: relative;}
+    .record-body .record-list-img {width: 210px;height: 158px;}
+    .record-body .record-list-nums {background: url(//s.591.com.tw/static/index/images/imgBox.png) no-repeat;width: 40px;height: 20px;position: absolute;bottom: 0;left: 170px;font-size: 12px;color: #fff;padding-left: 23px;line-height: 20px;font-style: normal;}
+    .record-body .record-list-ctx {font-size: 15px;margin: 15px 0;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+    .record-body .record-list-down {position: relative;}
+    .record-body .record-list-money {color: red;font-size: 20px;font-weight: bold;}
+    .record-body .record-list-unit {color: #000;font-size: 13px;}
+    .record-body .record-list-colle {width: 22px;height: 19px;background: url(//s.591.com.tw/static/index/images/historyColle.png);position: absolute;right: 0;}
+    .record-body .record-list-colleNo {width: 22px;height: 19px;background: url(///s.591.com.twstatic/index/images/historyColle2.png);position: absolute;right: 0;}
+    .record-body .record-list-del {background: url(//s.591.com.tw/static/index/images/historyDel.png) no-repeat;position: absolute;width: 20px;height: 20px;top: -8px;right: -8px;display: none;}
+    .record-body .record-list .record-list-a:hover .record-list-del {display: block;}
+    .record-body .record-bottom {border: 1px solid #ddd;width: 230px;height: 50px;background: #fff;font-size: 16px;margin-left: 10px;text-align: center;line-height: 50px;}
+    .record-body .record-bottom:hover {background: #eee;cursor: pointer;}
+    .record-body .record-colle-bottom {border: 1px solid #ddd;width: 258px;height: 50px;background: #fff;font-size: 16px;text-align: center;line-height: 50px;position: fixed;bottom: 0;display: block;}
+    .record-body .record-colle-bottom a {display: block;}
+    .record-body .record-colle-bottom:hover {background: #eee;cursor: pointer;}
+    .record-body .record-empty {display: none;}
+    .record-body .record-empty-img {width: 160px;margin: 0 auto;margin-top: 100px;}
+    .record-body .record-empty-txt {font-size: 16px;color: #999;margin: 15px auto 40px auto;text-align: center;}
+    .record-body .record-empty-close {width: 160px;height: 50px;font-size: 16px;color: #000;background: #fff;margin: 0 auto;text-align: center;line-height: 50px;border: 1px solid #ddd;}
+    .record-body .record-empty-close:hover {background: #eee;cursor: pointer;}
+    .record-body .record-colle-empty {display: none;}
+    .record-body .colle-empty-img {background: url(/static/index/images/colleEmpty.png) no-repeat;width: 160px;height: 120px;margin: 0 auto;margin-top: 100px;}
+    .record-body .colle-empty-txt {font-size: 16px;color: #999;margin: 15px auto 40px auto;text-align: center;}
+    .record-body .colle-empty-close {width: 160px;height: 50px;font-size: 16px;color: #000;background: #fff;margin: 0 auto;text-align: center;line-height: 50px;border: 1px solid #ddd;}
+    .record-body .colle-empty-close:hover {background: #eee;cursor: pointer;}
+    .record-body::-webkit-scrollbar {width: 5px;}
+    .record-body::-webkit-scrollbar-track {border-radius: 6px;background-color: transparent;}
+    .record-body::-webkit-scrollbar-thumb {border-radius: 6px;background: #7b6f6f;}
+    .fixed-bottom {position: fixed;bottom: 0;margin-left: 0 !important;width: 258px !important;}
+    .record-tab-on {border-bottom: 2px solid #ff6e00;}
+    #j_popbox_colle .record-pop-first {width: 200px;margin: 30px auto;}
+    #j_popbox_colle .record-pop-first .record-pop-success {font-size: 18px;color: #123;margin-right: 10px;}
+    #j_popbox_colle .record-pop-first .record-pop-more {font-size: 18px;}
+    #j_popbox_colle .record-pop-second {color: #ccc;text-align: center;margin-bottom: 15px;}
+    #j_popbox_colle .record-pop-third .record-pop-login {float: left;height: 30px;line-height: 30px;border: 1px solid #ccc;width: 110px;text-align: center;margin-left: 100px;cursor: pointer;border-radius: 3px;display: block;}
+    #j_popbox_colle .record-pop-third .record-pop-login:hover {background: #f78b26;color: #fff;}
+    #j_popbox_colle .record-pop-third .record-pop-stay {float: right;height: 30px;line-height: 30px;border: 1px solid #ccc;width: 110px;text-align: center;margin-right: 100px;cursor: pointer;border-radius: 3px;}
+    #j_popbox_colle .record-pop-third .record-pop-stay:hover {background: #f78b26;color: #fff;}
+    #j_popbox_medium .record-pop-first {text-align: center;margin: 30px auto;}
+    #j_popbox_medium .record-pop-first .record-pop-success {font-size: 18px;color: #123;margin-right: 10px;}
+    #j_popbox_medium .record-pop-first .record-pop-more {font-size: 18px;}
+    #j_popbox_medium .record-pop-second {color: #ccc;text-align: center;margin-bottom: 15px;}
+    #j_popbox_medium .record-pop-third .record-pop-login {float: left;height: 30px;line-height: 30px;border: 1px solid #ccc;width: 110px;text-align: center;margin-left: 100px;cursor: pointer;border-radius: 3px;display: block;}
+    #j_popbox_medium .record-pop-third .record-pop-login:hover {background: #f78b26;color: #fff;}
+    #j_popbox_medium .record-pop-third .record-pop-stay {float: right;height: 30px;line-height: 30px;border: 1px solid #ccc;width: 110px;text-align: center;margin-right: 100px;cursor: pointer;border-radius: 3px;}
+    #j_popbox_medium .record-pop-third .record-pop-stay:hover {background: #f78b26;color: #fff;}
+</style>
+
+<script>
+    window.addEventListener('load', function () {
+        seajs.use(['login', '_record'], function (userLogin, Record) {
+            var $window = $(window)
+            var $sideTool = $('.side_tool_wrap ')
+            var $record = $('.record-body')
+            var $backTop = $sideTool.find('.backtop')
+            var colleConfig = {title: '我的收藏', type: 'collection', width: '257', close: true, listName: 'collectionList'}
+            var rConfig = {title: '瀏覽歷史記錄', type: 'history', width: '257', close: true, listName: 'historyList'}
+            var isDetail = location.href.search('detail') > -1
+
+            init()
+
+            function init () {
+                new Record(colleConfig).init()
+                new Record(rConfig).init()
+
+                // 显示dom
+                $sideTool.show()
+                $record.show()
+
+                // 非详细页隐藏加入收藏按钮
+                !isDetail && $sideTool.find('.addCollec').hide()
+
+                resize()
+                bindEvent()
+            }
+
+            function bindEvent () {
+                $window.bind('resize', resize)
+                $window.bind('scroll', scroll)
+
+                // 图标划入划出效果
+                $sideTool.find('li').bind({
+                    mouseenter: function () {
+                        $(this).addClass("active").find(".side-show").show().stop().animate({opacity:1,right:'34px'},300)
+                    },
+                    mouseleave: function () {
+                        $(this).removeClass("active").find(".side-show").hide().stop().animate({opacity:0,right:'45px'},50)
+                    }
+                })
+
+                // 在线客服点击事件
+                $sideTool.find('.online').click(function () {
+                    var param = userLogin.callBack("openKF()")
+                    userLogin.isLogin = openKF
+                    userLogin.init(param)
+                    return false
+                })
+
+                // 意见反馈点击事件
+                $sideTool.find('.proposal').click(function () {
+                    $.popbox({
+                        id: "jq_popbox_proposal",
+                        title:"意見反饋",
+                        size: {
+                            "width": "560px",
+                            "height": "315px"
+                        },
+                        type: "iframe",
+                        content:{
+                            "width": "540px",
+                            "height": "255px",
+                            "url": "/home/pubBox/proposal?type=business",
+                            "scrolling": 0
+                        }
+                    })
+                })
+
+                // 加入收藏点击事件
+                isDetail && $sideTool.find('.addCollec').click(function () {
+                    var ctrl = (navigator.userAgent.toLowerCase()).indexOf('mac') != -1 ? 'Command/Cmd': 'CTRL';
+
+                    jQuery.browser={};
+
+                    (function(){
+                        jQuery.browser.msie=false;
+                        jQuery.browser.version=0;
+                        if(navigator.userAgent.match(/MSIE ([0-9]+)./)){
+                            jQuery.browser.msie=true;
+                            jQuery.browser.version=RegExp.$1;
+                        }
+                    })();
+
+                    if ($.browser.msie) {
+                        try {
+                            try{
+                                window.external.addFavorite(window.location, document.title);
+                            }catch (e){
+                                window.external.addToFavoritesBar(window.location, document.title);  //IE8
+                            }
+                        }catch (e){
+                            alert('您可以嘗試通過快捷鍵' + ctrl + ' + D 加入到收藏夾~');
+                        }
+                    } else {
+                        alert('您可以嘗試通過快捷鍵' + ctrl + ' + D 加入到收藏夾~');
+                    }
+                })
+
+                // 返回顶部点击事件
+                $backTop.click(function () {
+                    window.scroll(0,0)
+                    $backTop.next().hide()
+                })
+            }
+
+            function resize () {
+                var _width = $window.width()
+
+                if(_width > 1300){
+                    $sideTool.show()
+                }else{
+                    $sideTool.hide()
+                }
+            }
+
+            function scroll () {
+                $window.scrollTop() > 500 
+                    ? $backTop.show()
+                    : $backTop.hide()
+            }
+
+            function openKF () {
+                var userId = $('#j_logininfo').attr('data-userid');
+                var userHref = "";
+                if(userId > 0){
+                    userHref= "&keyword="+userId;
+                }
+                window.open("http://www10.53kf.com/webCompany.php?arg=10037302&style=1&language=tw&lytype=0&charset=UTF-8"+userHref+"","_blank","height=473,width=703,top=200,left=200,status=yes,toolbar=no,menubar=no,resizable=yes,scrollbars=no,location=no,titlebar=no");
+            }
+
+            window.openKF = openKF;
+        })
+    })
+</script>
+    
+    <style>
+	.accreditPop {display: none; position: fixed; top: 130px; left: 90px; z-index: 9999; width: 352px; height:115px; border-radius: 5px; background: url("//s.591.com.tw/static/public/googlePush/images/accreditPop-1.png") no-repeat center;}
+	.accreditPop a {position: absolute;right: 5px;width: 25px;height: 25px;top:4px;}
+</style>
+
+<div class="accreditPop">
+    <a href="javascript:;"></a>
+</div>
+    
+        <script>
+        seajs.use('list');
+    </script>
+
+            
+        <script type="text/javascript" src="//s.591.com.tw/union/UNION-v2.js?v=e9aadbfda3"></script>
+        <script>
+            // 種類是5即店面，顯示id為45的廣告內容，要不顯示辦公的廣告內容
+            var pid = 5 == 5 ? 45 : 47
+
+            UNION_SHOW({
+                pid: pid
+            })
+        </script>
+    
+    <!--列表页模板引擎-->
+    <script type="text/html" id="detailList">
+
+    <@ for (i = 0; i< data.length; i ++) { @>
+        <@ if(i == 10) {@>
+            <div id="list-up"></div>
+        <@ } @>
+    <ul class="listInfo clearfix <@ if(data[i]['addition3']) { @> addition3 <@ } @>">
+        <li class="pull-left imageBox" value="<@=data[i]['addition2']@>">
+            <img src="https://www.591.com.tw/images/index/house/newVersion/newlazy.gif" data-original="<@=data[i]['filename']@>" width="210" height="158" data-bind="<@=data[i]['id']@>" data-img-length="<@=data[i]['photoNum']@>" class="boxImg lazy "  tilte="<@=data[i]['photo_alt']@>" alt="<@=data[i]['photo_alt']@>">
+                            <@ if( data[i]['addition2'] == '1'){ @>
+                <span class="worry"></span>
+                <@ } @>
+            
+
+            <@ if( data[i]['photoNum'] > 0 ){ @>
+            <div class="imgSort">
+                <@=data[i]['photoNum']@>
+            </div>
+            <@ } @>
+        </li>
+        <li class="pull-left infoContent
+            <@ if( data[i]['distance_info']){ @>
+                distance_info
+            <@ } @>
+        ">
+            <h3>
+
+                <a href=" //rent.591.com.tw/rent-detail-<@=data[i]['id']@>.html  " target="_blank">
+
+                    <@=data[i]['address_img'] @></a>
+
+                <@ if( data[i]['addition4']) {@>
+                <span class="labelOne">黄金曝光</span>
+                <@ }else if( data[i]['isvip']){@>
+                <span class="labelThree">VIP</span>
+                <@ } @>
+            </h3>
+
+
+            <p class="lightBox" data-test="5">
+
+                                        <@=data[i]['kind_name'] @>
+
+                        <@ if(data[i]['layout']){ @>
+                        <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i><@=data[i]['layout'] @>
+                        <@ } @>
+                        
+                        <@ if(data[i]['area']){ @>
+                        <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i><@=data[i]['area'] @> 坪
+                        <@ } @>
+
+                        <@ if(data[i]['floorInfo']){ @>
+                        <i>&nbsp;&nbsp;|&nbsp;&nbsp;</i><@=data[i]['floorInfo'] @>
+                        <@ } @>
+
+                   
+                            </p>
+            <p class="lightBox">
+
+                <@ if(data[i]['cases_name']){@>
+
+                    <@ if(data[i]['cases_id']){@>
+
+                        <a href="//www.591.com.tw/newCommunity-index.html?cid=<@=data[i]['cases_id']@>" target="_blank"><@=data[i]['cases_name']@></a>
+
+                    <@ }else{ @>
+
+                        <@=data[i]['cases_name']@>
+
+                    <@ } @>
+
+                <@ } @>
+
+                <em><@=data[i]['section_name']@>-<@=data[i]['street_name']@><@=data[i]['alley_name']@><@=data[i]['lane_name']@><@=data[i]['addr_number_name']@><@=data[i]['addr_fci']@></em></p>
+            <p>
+                <@ if(data[i]['nick_name']){@>
+                <em><@=data[i]['nick_name']@></em>
+                <@ } @>
+
+                <@ if(data[i]['posttime']){@>
+                &nbsp;/&nbsp;<em><@=data[i]['posttime']@>更新</em>
+                <@ } @>
+
+                <@ if(data[i]['comment_total']){@>
+                &nbsp;/&nbsp;<em><@=data[i]['comment_total']@>條問答</em>
+                <@ } @>
+
+                <@ if(data[i]['browsenum']){@>
+                &nbsp;/&nbsp;<em><@=data[i]['browsenum']@>人瀏覽</em>
+
+                                    <b class="showyestoday"></b>
+                                <@ } @>
+
+            </p>
+            <@==data[i]['distance_info']@>
+            <span class="shoucang"><a data-text="<@=data[i]['id'] @>" data-bind="1" href="javascript:;" title="收藏" google-data-stat="商用_列表_收藏"></a></span>
+        </li>
+        <div class="price"><i><@=data[i]['price']@></i>
+            <@=data[i]['unit']@>
+        </div>
+
+        
+        <@ if(data[i]['new_img']){ @>
+        <div class="newArticle"></div>
+        <@ } @>
+
+
+    </ul>
+    <@ } @>
+</script>            <!--列表已成交模板引擎-->
+    <script type="text/html" id="completedTpl">
+    <ul class="completed">
+        <@ for (t = 0; t < data.length; t++) { @>
+        <li class="clearfix">
+            <div class="cplAddress"><a href=" //rent.591.com.tw/rent-detail-<@=data[t]['post_id']@>.html  " target="_blank"><@=data[t]['region_name']@>-<@=data[t]['section_name']@>&nbsp;&nbsp;&nbsp;&nbsp;<@=data[t]['address']@></a></div>
+            <div class="cplDay"><@=data[t]['addInfo']@></div>
+            <div class="cplMuch"><@=data[t]['price']@><@=data[t]['unit']@></div>
+            <div class="cplSize"><@=data[t]['area']@>坪/<@=data[t]['kind_name']@></div>
+            <div class="cplTime"><@=data[t]['posttime']@></div>
+        </li>
+        <@ } @>
+    </ul>
+</script>
+
+    
+    <script>
+    
+        //新版ga統計analytics.js
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        //增強的鏈接歸因
+        ga('require', 'linkid');
+
+        //主站 - 舊版統計合併
+        ga('create', 'UA-2021527-18', 'auto', {'name': 'tw591'});
+
+        //頁面統計
+        ga('tw591.send', 'pageview');
+
+        //再行銷
+        ga('require', 'displayfeatures');
+
+        //自定義ga插件
+        seajs.use("stat");
+
+
+    
+</script>
+    
+    
+    
+    
+    
+     
+
+    
+            
+        <script>
+
+    //設置賬號 - 商業地產
+    ga('create','UA-80992305-1','auto');
+
+    //頁面統計
+    ga('send', 'pageview');
+    
+
+</script>
+     
+
+    
+                 
+
+    <script type="text/javascript">
+    try{
+        top.location.hostname;
+        if (top.location.hostname != window.location.hostname) {
+            top.location.href =window.location.href;
+        }
+    }
+    catch(e){
+        top.location.href = window.location.href;
+    }
+</script>    
+    
+    
+</body>
+</html>

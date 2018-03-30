@@ -1,0 +1,16 @@
+<!doctype html>
+<title>search map</title>
+<p></p>
+<form action="/app" method="post">
+ <input type="textbox" name="text_1" value="台北市內湖區新明路" />
+ <input type="submit" name ="submit" value="addAddress" />
+ <input type="submit" name ="submit" value="review" />
+</form>
+{% for m in marks %}
+  {{m}}
+  <br>
+{%endfor%}
+in head:
+    {{sndmap.js}}
+in body:
+    {{sndmap.html}}

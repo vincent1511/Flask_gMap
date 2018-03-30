@@ -1,0 +1,41 @@
+<!doctype html>
+<title>search map</title>
+<p></p>
+<form action="/list" method="post">
+ <input type="checkbox" name="check_area" value="check_area">區域
+<select name="text_area">
+　<option value="中山區">中山區</option>
+　<option value="大同區">大同區</option>
+　<option value="松山區">松山區</option>
+  <option value="大安區">大安區</option>
+　<option value="萬華區">萬華區</option>
+　<option value="信義區">信義區</option>
+　<option value="士林區">士林區</option>
+  <option value="北投區">北投區</option>
+　<option value="內湖區">內湖區</option>
+　<option value="南港區">南港區</option>
+　<option value="文山區">文山區</option>
+　<option value="中正區">中正區</option>
+</select>
+ <br>
+ <input type="checkbox" name="check_price" value="check_price">價格
+ <input type="textbox" name="price_low" value="0" />
+ <input type="textbox" name="price_high" value="10000" />
+ <br>
+ <input type="checkbox" name="check_size" value="check_size">坪數
+ <input type="textbox" name="size_low" value="0" />
+ <input type="textbox" name="size_high" value="32" />
+ <br>
+ <input type="checkbox" name="check_floor" value="check_floor">樓層
+ <input type="textbox" name="text_floor" value="1" />
+ <br>
+ <input type="submit" name ="submit" value="search" />
+</form>
+{{sndmap.js}}
+{{sndmap.html}}
+{% for m in marks %}
+  {% for cnt in m%}
+  	{{cnt}}
+  {%endfor%}
+  <br>
+{%endfor%}
